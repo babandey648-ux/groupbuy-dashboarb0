@@ -1,0 +1,12 @@
+Task,Model,Metric,Value,Other
+Classification,Baseline (always majority),F1,0.0,Accuracy 0.723; Precision 0.000; Recall 0.000; ROC-AUC 0.500
+Classification,Logistic Regression,F1,0.6989,Accuracy 0.813; Precision 0.631; Recall 0.783; ROC-AUC 0.871
+Classification,Decision Tree,F1,0.6332,Accuracy 0.757; Precision 0.543; Recall 0.759; ROC-AUC 0.778
+Classification,Random Forest,F1,0.6732,Accuracy 0.777; Precision 0.566; Recall 0.831; ROC-AUC 0.867
+Regression,Baseline (mean),R2,-0.004,MAE 451.6; RMSE 636.8; MSE 405529
+Regression,Multiple Linear Regression,R2,0.4694,MAE 321.9; RMSE 462.9; MSE 214297
+Regression,Linear Regression (log target),R2,0.4654,MAE 298.3; RMSE 464.7; MSE 215942
+Regression,Random Forest Regressor,R2,0.7103,MAE 225.0; RMSE 342.1; MSE 117008
+Clustering,K-Means (k=5),Silhouette,0.2371,Inertia 7544
+Association,Apriori: Category bundle,Max lift,2.7233,77 rules; median confidence 0.555
+Association,Apriori: Feature pairing,Max lift,2.5914,90 rules; median confidence 0.546

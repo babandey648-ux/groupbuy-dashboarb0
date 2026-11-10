@@ -1,0 +1,6 @@
+Cluster,Segment,Customers,Income,Spend,Orders,SME_Share,Price,Wait,Trust,Social,Convenience,Min_Discount,Max_Wait,Max_Delivery_Fee,Order_Value,Conversion_Score,High_Intent_Share,Strategy
+0,Social Online Shoppers,288,15700.0,1580.0,8.71,0.0,3.93,3.01,3.69,4.29,3.77,14.97,5.02,9.99,350.0,4.73,0.22,"Recruit through referral rewards and WhatsApp groups; run small-basket, short campaigns."
+1,Cautious Sceptics,231,17250.0,1800.0,1.83,0.0,3.57,2.81,1.8,2.32,2.57,21.98,4.07,7.13,260.0,1.72,0.04,Do not spend paid acquisition; nurture with verified-savings proof and refund guarantees.
+2,SME Procurement Buyers,165,26500.0,7580.0,5.84,0.94,4.21,3.67,3.45,2.61,3.18,9.54,9.83,23.75,1720.0,6.12,0.45,Prioritise for high-value office and bulk campaigns; offer bid comparison and VAT invoices.
+3,Affluent Convenience Seekers,220,48950.0,4220.0,11.91,0.0,2.08,1.76,3.49,2.74,4.55,24.97,2.1,30.34,590.0,0.8,0.04,"Exclude from standard campaigns; test only premium, fast-delivery offers."
+4,Bulk Value Seekers,296,13800.0,2650.0,5.14,0.01,4.45,3.86,3.48,3.83,2.79,12.1,6.9,8.0,685.0,6.88,0.59,Core launch audience: staples and household campaigns with consolidated delivery.

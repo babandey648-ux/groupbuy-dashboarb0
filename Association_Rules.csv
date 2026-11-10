@@ -1,0 +1,168 @@
+Antecedent,Consequent,support,confidence,lift,leverage,conviction,Rule_Type
+Fresh_Produce_Meat + Groceries_Staples,Baby_Kids,0.1117,0.5469,2.7233,0.0707,1.7639,Category bundle
+Baby_Kids,Fresh_Produce_Meat + Groceries_Staples,0.1117,0.556,2.7233,0.0707,1.7925,Category bundle
+Groceries_Staples + Household_Cleaning,Fresh_Produce_Meat + Personal_Care,0.1083,0.4833,2.6973,0.0682,1.5885,Category bundle
+Fresh_Produce_Meat + Personal_Care,Groceries_Staples + Household_Cleaning,0.1083,0.6047,2.6973,0.0682,1.9624,Category bundle
+Baby_Kids + Groceries_Staples,Fresh_Produce_Meat,0.1117,0.8701,2.6434,0.0694,5.1654,Category bundle
+Baby_Kids,Fresh_Produce_Meat + Household_Cleaning,0.0917,0.4564,2.5357,0.0555,1.5085,Category bundle
+Fresh_Produce_Meat + Household_Cleaning,Baby_Kids,0.0917,0.5093,2.5357,0.0555,1.6285,Category bundle
+Groceries_Staples + Personal_Care,Fresh_Produce_Meat + Household_Cleaning,0.1083,0.4514,2.5077,0.0651,1.4947,Category bundle
+Fresh_Produce_Meat + Household_Cleaning,Groceries_Staples + Personal_Care,0.1083,0.6019,2.5077,0.0651,1.9088,Category bundle
+Baby_Kids + Personal_Care,Fresh_Produce_Meat,0.0817,0.7778,2.3629,0.0471,3.0188,Category bundle
+Baby_Kids + Household_Cleaning,Fresh_Produce_Meat,0.0917,0.7639,2.3207,0.0522,2.8412,Category bundle
+Fresh_Produce_Meat + Personal_Care,Baby_Kids,0.0817,0.4558,2.2696,0.0457,1.4686,Category bundle
+Baby_Kids,Fresh_Produce_Meat + Personal_Care,0.0817,0.4066,2.2696,0.0457,1.3834,Category bundle
+Fresh_Produce_Meat + Groceries_Staples,Household_Cleaning + Personal_Care,0.1083,0.5306,2.1956,0.059,1.6156,Category bundle
+Household_Cleaning + Personal_Care,Fresh_Produce_Meat + Groceries_Staples,0.1083,0.4483,2.1956,0.059,1.4424,Category bundle
+Fitness_Sports,Electronics + Personal_Care,0.0925,0.4221,2.128,0.049,1.3871,Category bundle
+Electronics + Personal_Care,Fitness_Sports,0.0925,0.4664,2.128,0.049,1.4633,Category bundle
+Fresh_Produce_Meat,Baby_Kids,0.135,0.4101,2.0421,0.0689,1.3548,Category bundle
+Baby_Kids,Fresh_Produce_Meat,0.135,0.6722,2.0421,0.0689,2.0465,Category bundle
+Fresh_Produce_Meat + Household_Cleaning + Personal_Care,Groceries_Staples,0.1083,0.8553,1.9775,0.0536,3.9209,Category bundle
+Baby_Kids + Fresh_Produce_Meat,Groceries_Staples,0.1117,0.8272,1.9125,0.0533,3.2834,Category bundle
+Baby_Kids,Groceries_Staples + Household_Cleaning,0.085,0.4232,1.888,0.04,1.3451,Category bundle
+Groceries_Staples + Household_Cleaning + Personal_Care,Fresh_Produce_Meat,0.1083,0.6103,1.8542,0.0499,1.7215,Category bundle
+Fresh_Produce_Meat + Groceries_Staples + Personal_Care,Household_Cleaning,0.1083,0.828,1.8503,0.0498,3.2127,Category bundle
+Fresh_Produce_Meat + Groceries_Staples + Household_Cleaning,Personal_Care,0.1083,0.8228,1.7984,0.0481,3.0613,Category bundle
+Groceries_Staples + Household_Cleaning,Fresh_Produce_Meat,0.1317,0.5874,1.7844,0.0579,1.6257,Category bundle
+Electronics + Fitness_Sports,Personal_Care,0.0925,0.7986,1.7455,0.0395,2.6931,Category bundle
+Baby_Kids + Personal_Care,Household_Cleaning,0.0817,0.7778,1.7381,0.0347,2.4862,Category bundle
+Groceries_Staples + Household_Cleaning,Personal_Care,0.1775,0.7918,1.7308,0.0749,2.6059,Category bundle
+Groceries_Staples,Household_Cleaning + Personal_Care,0.1775,0.4104,1.6982,0.073,1.2862,Category bundle
+Household_Cleaning + Personal_Care,Groceries_Staples,0.1775,0.7345,1.6982,0.073,2.1373,Category bundle
+Fresh_Produce_Meat + Household_Cleaning,Groceries_Staples,0.1317,0.7315,1.6913,0.0538,2.1134,Category bundle
+Fresh_Produce_Meat + Personal_Care,Groceries_Staples,0.1308,0.7302,1.6884,0.0533,2.1037,Category bundle
+Baby_Kids,Household_Cleaning + Personal_Care,0.0817,0.4066,1.6826,0.0331,1.278,Category bundle
+Groceries_Staples + Personal_Care,Fresh_Produce_Meat,0.1308,0.5451,1.6561,0.0518,1.4748,Category bundle
+Groceries_Staples + Personal_Care,Household_Cleaning,0.1775,0.7396,1.6527,0.0701,2.1216,Category bundle
+Baby_Kids + Household_Cleaning,Groceries_Staples,0.085,0.7083,1.6378,0.0331,1.9457,Category bundle
+Home_Appliances,Furniture_Decor,0.0967,0.4218,1.6328,0.0375,1.2828,Category bundle
+Fitness_Sports + Personal_Care,Electronics,0.0925,0.6201,1.6142,0.0352,1.6211,Category bundle
+Household_Cleaning + Personal_Care,Fresh_Produce_Meat,0.1267,0.5241,1.5923,0.0471,1.4097,Category bundle
+Office_Supplies,Water_Beverages,0.08,0.4898,1.5842,0.0295,1.354,Category bundle
+Fresh_Produce_Meat + Personal_Care,Household_Cleaning,0.1267,0.707,1.5798,0.0465,1.8855,Category bundle
+Fresh_Produce_Meat + Household_Cleaning,Personal_Care,0.1267,0.7037,1.5382,0.0443,1.8309,Category bundle
+Baby_Kids + Fresh_Produce_Meat,Household_Cleaning,0.0917,0.679,1.5173,0.0313,1.7212,Category bundle
+Fitness_Sports,Personal_Care,0.1492,0.6806,1.4877,0.0489,1.6985,Category bundle
+Baby_Kids + Household_Cleaning,Personal_Care,0.0817,0.6806,1.4876,0.0268,1.6983,Category bundle
+Baby_Kids + Groceries_Staples,Household_Cleaning,0.085,0.6623,1.4801,0.0276,1.6363,Category bundle
+Baby_Kids,Groceries_Staples,0.1283,0.639,1.4775,0.0415,1.572,Category bundle
+Office_Supplies,Household_Cleaning,0.1067,0.6531,1.4594,0.0336,1.5925,Category bundle
+Fresh_Produce_Meat + Groceries_Staples,Household_Cleaning,0.1317,0.6449,1.4411,0.0403,1.5559,Category bundle
+Fresh_Produce_Meat,Groceries_Staples,0.2042,0.6203,1.4341,0.0618,1.4944,Category bundle
+Groceries_Staples,Fresh_Produce_Meat,0.2042,0.4721,1.4341,0.0618,1.2707,Category bundle
+Groceries_Staples + Water_Beverages,Household_Cleaning,0.085,0.6296,1.407,0.0246,1.4918,Category bundle
+Fresh_Produce_Meat + Groceries_Staples,Personal_Care,0.1308,0.6408,1.4007,0.0374,1.5104,Category bundle
+Personal_Care + Water_Beverages,Household_Cleaning,0.0817,0.6203,1.386,0.0227,1.4549,Category bundle
+Fitness_Sports,Electronics,0.1158,0.5285,1.3757,0.0316,1.3062,Category bundle
+Baby_Kids,Household_Cleaning,0.12,0.5975,1.3352,0.0301,1.3727,Category bundle
+Baby_Kids + Fresh_Produce_Meat,Personal_Care,0.0817,0.6049,1.3223,0.0199,1.3732,Category bundle
+Furniture_Decor,Electronics,0.13,0.5032,1.3099,0.0308,1.2397,Category bundle
+Household_Cleaning,Water_Beverages,0.1808,0.4041,1.3071,0.0425,1.1593,Category bundle
+Water_Beverages,Household_Cleaning,0.1808,0.5849,1.3071,0.0425,1.331,Category bundle
+Household_Cleaning,Fresh_Produce_Meat,0.18,0.4022,1.222,0.0327,1.1222,Category bundle
+Fresh_Produce_Meat,Household_Cleaning,0.18,0.5468,1.222,0.0327,1.2192,Category bundle
+Personal_Care,Groceries_Staples,0.24,0.5246,1.2129,0.0421,1.1937,Category bundle
+Groceries_Staples,Personal_Care,0.24,0.5549,1.2129,0.0421,1.2189,Category bundle
+Fresh_Produce_Meat,Personal_Care,0.1792,0.5443,1.1897,0.0286,1.1905,Category bundle
+Personal_Care,Household_Cleaning,0.2417,0.5282,1.1804,0.0369,1.1711,Category bundle
+Household_Cleaning,Personal_Care,0.2417,0.54,1.1804,0.0369,1.1794,Category bundle
+Groceries_Staples,Household_Cleaning,0.2242,0.5183,1.1582,0.0306,1.147,Category bundle
+Household_Cleaning,Groceries_Staples,0.2242,0.5009,1.1582,0.0306,1.1371,Category bundle
+Home_Appliances,Electronics,0.1008,0.44,1.1453,0.0128,1.0997,Category bundle
+Baby_Kids,Personal_Care,0.105,0.5228,1.1428,0.0131,1.1369,Category bundle
+Electronics,Personal_Care,0.1983,0.5163,1.1285,0.0226,1.1215,Category bundle
+Personal_Care,Electronics,0.1983,0.4335,1.1285,0.0226,1.0871,Category bundle
+Household_Cleaning + Water_Beverages,Groceries_Staples,0.085,0.47,1.0868,0.0068,1.0708,Category bundle
+Home_Appliances,Personal_Care,0.1133,0.4945,1.081,0.0085,1.0733,Category bundle
+Furniture_Decor,Personal_Care,0.1258,0.4871,1.0647,0.0076,1.0577,Category bundle
+Building_Pooling + WhatsApp_Updates,Consolidated_Delivery,0.1142,0.8616,2.5914,0.0701,4.8242,Feature pairing
+Consolidated_Delivery + WhatsApp_Updates,Building_Pooling,0.1142,0.6256,2.3907,0.0664,1.9719,Feature pairing
+VAT_Invoice,Supplier_Bid_Compare,0.1133,0.8144,1.8721,0.0528,3.0437,Feature pairing
+Buyer_Approved_Price + Pay_After_Approval,Refund_If_Campaign_Fails,0.1425,0.8906,1.8684,0.0662,4.7848,Feature pairing
+Buyer_Approved_Price + Savings_Ledger,Supplier_Bid_Compare,0.1625,0.8091,1.8601,0.0751,2.9601,Feature pairing
+Building_Pooling + Consolidated_Delivery,WhatsApp_Updates,0.1142,0.7486,1.8297,0.0518,2.3505,Feature pairing
+Consolidated_Delivery,Building_Pooling,0.1525,0.4586,1.7528,0.0655,1.3639,Feature pairing
+Building_Pooling,Consolidated_Delivery,0.1525,0.5828,1.7528,0.0655,1.6,Feature pairing
+Buyer_Approved_Price + Refund_If_Campaign_Fails,Pay_After_Approval,0.1425,0.6381,1.6537,0.0563,1.6969,Feature pairing
+Savings_Ledger + Supplier_Bid_Compare,Buyer_Approved_Price,0.1625,0.625,1.6447,0.0637,1.6533,Feature pairing
+Buyer_Approved_Price + Supplier_Bid_Compare,Savings_Ledger,0.1625,0.7222,1.6139,0.0618,1.989,Feature pairing
+Refund_If_Campaign_Fails + Supplier_Bid_Compare,Buyer_Approved_Price,0.1325,0.6023,1.5849,0.0489,1.5589,Feature pairing
+Pay_After_Approval + Refund_If_Campaign_Fails,Buyer_Approved_Price,0.1425,0.6021,1.5845,0.0526,1.5582,Feature pairing
+BNPL_Tabby_Tamara,Referral_Rewards,0.1342,0.4694,1.5734,0.0489,1.3224,Feature pairing
+Consolidated_Delivery + Savings_Ledger,WhatsApp_Updates,0.1058,0.6318,1.5442,0.0373,1.6048,Feature pairing
+Savings_Ledger + WhatsApp_Updates,Consolidated_Delivery,0.1058,0.4942,1.4862,0.0346,1.3196,Feature pairing
+Savings_Ledger + Supplier_Verified_Badge,Supplier_Bid_Compare,0.105,0.6429,1.4778,0.0339,1.582,Feature pairing
+Consolidated_Delivery + Savings_Ledger,Supplier_Bid_Compare,0.1075,0.6418,1.4754,0.0346,1.5773,Feature pairing
+Supplier_Bid_Compare + WhatsApp_Updates,Buyer_Approved_Price,0.115,0.5587,1.4703,0.0368,1.405,Feature pairing
+Refund_If_Campaign_Fails + WhatsApp_Updates,Buyer_Approved_Price,0.1008,0.5576,1.4674,0.0321,1.4015,Feature pairing
+Buyer_Approved_Price + WhatsApp_Updates,Supplier_Bid_Compare,0.115,0.6359,1.4619,0.0363,1.552,Feature pairing
+Supplier_Bid_Compare + WhatsApp_Updates,Consolidated_Delivery,0.1,0.4858,1.4611,0.0316,1.2982,Feature pairing
+Consolidated_Delivery + Supplier_Bid_Compare,WhatsApp_Updates,0.1,0.5941,1.4519,0.0311,1.4555,Feature pairing
+Supplier_Bid_Compare + WhatsApp_Updates,Savings_Ledger,0.1325,0.6437,1.4385,0.0404,1.5508,Feature pairing
+Refund_If_Campaign_Fails + Supplier_Bid_Compare,Savings_Ledger,0.1408,0.6402,1.4305,0.0424,1.5354,Feature pairing
+Consolidated_Delivery + Supplier_Bid_Compare,Savings_Ledger,0.1075,0.6386,1.4271,0.0322,1.5288,Feature pairing
+Pay_After_Approval + Supplier_Bid_Compare,Refund_If_Campaign_Fails,0.1183,0.6794,1.4254,0.0353,1.6325,Feature pairing
+Savings_Ledger + WhatsApp_Updates,Supplier_Bid_Compare,0.1325,0.6187,1.4222,0.0393,1.4817,Feature pairing
+Refund_If_Campaign_Fails + Savings_Ledger,Supplier_Bid_Compare,0.1408,0.6168,1.4179,0.0415,1.4744,Feature pairing
+Refund_If_Campaign_Fails + Savings_Ledger,Pay_After_Approval,0.1242,0.5438,1.4094,0.0361,1.3463,Feature pairing
+Refund_If_Campaign_Fails + Supplier_Bid_Compare,Pay_After_Approval,0.1183,0.5379,1.3941,0.0335,1.329,Feature pairing
+Pay_After_Approval + Savings_Ledger,Refund_If_Campaign_Fails,0.1242,0.6622,1.3893,0.0348,1.5493,Feature pairing
+Refund_If_Campaign_Fails + Savings_Ledger,Buyer_Approved_Price,0.1192,0.5219,1.3734,0.0324,1.2968,Feature pairing
+Pay_After_Approval + Supplier_Bid_Compare,Savings_Ledger,0.1067,0.6124,1.3686,0.0287,1.4256,Feature pairing
+Buyer_Approved_Price + Refund_If_Campaign_Fails,Supplier_Bid_Compare,0.1325,0.5933,1.3639,0.0354,1.3892,Feature pairing
+Supplier_Bid_Compare,Buyer_Approved_Price,0.225,0.5172,1.3612,0.0597,1.2843,Feature pairing
+Buyer_Approved_Price,Supplier_Bid_Compare,0.225,0.5921,1.3612,0.0597,1.3852,Feature pairing
+Consolidated_Delivery,WhatsApp_Updates,0.1825,0.5489,1.3414,0.0465,1.3097,Feature pairing
+Savings_Ledger,Supplier_Bid_Compare,0.26,0.581,1.3356,0.0653,1.3485,Feature pairing
+Supplier_Bid_Compare,Savings_Ledger,0.26,0.5977,1.3356,0.0653,1.3734,Feature pairing
+Pay_After_Approval + Savings_Ledger,Supplier_Bid_Compare,0.1067,0.5689,1.3078,0.0251,1.3106,Feature pairing
+Refund_If_Campaign_Fails + WhatsApp_Updates,Supplier_Bid_Compare,0.1025,0.5668,1.303,0.0238,1.3043,Feature pairing
+Refund_If_Campaign_Fails + WhatsApp_Updates,Savings_Ledger,0.105,0.5806,1.2975,0.0241,1.3175,Feature pairing
+Consolidated_Delivery + WhatsApp_Updates,Savings_Ledger,0.1058,0.5799,1.2959,0.0242,1.3152,Feature pairing
+Referral_Rewards,WhatsApp_Updates,0.1575,0.5279,1.2903,0.0354,1.2516,Feature pairing
+Refund_If_Campaign_Fails,Pay_After_Approval,0.2367,0.4965,1.2868,0.0528,1.2198,Feature pairing
+Pay_After_Approval,Refund_If_Campaign_Fails,0.2367,0.6134,1.2868,0.0528,1.3536,Feature pairing
+Buyer_Approved_Price + WhatsApp_Updates,Savings_Ledger,0.1033,0.5714,1.2769,0.0224,1.2892,Feature pairing
+Savings_Ledger + WhatsApp_Updates,Buyer_Approved_Price,0.1033,0.4825,1.2697,0.0219,1.198,Feature pairing
+Consolidated_Delivery + WhatsApp_Updates,Supplier_Bid_Compare,0.1,0.5479,1.2596,0.0206,1.2498,Feature pairing
+Buyer_Approved_Price + Savings_Ledger,WhatsApp_Updates,0.1033,0.5145,1.2575,0.0212,1.217,Feature pairing
+Buyer_Approved_Price + Supplier_Bid_Compare,WhatsApp_Updates,0.115,0.5111,1.2492,0.0229,1.2085,Feature pairing
+BNPL_Tabby_Tamara,WhatsApp_Updates,0.1458,0.5102,1.2469,0.0289,1.2063,Feature pairing
+Savings_Ledger + Supplier_Bid_Compare,WhatsApp_Updates,0.1325,0.5096,1.2455,0.0261,1.2048,Feature pairing
+Buyer_Approved_Price + Savings_Ledger,Refund_If_Campaign_Fails,0.1192,0.5934,1.2448,0.0234,1.287,Feature pairing
+Supplier_Bid_Compare + Supplier_Verified_Badge,Savings_Ledger,0.105,0.5551,1.2404,0.0203,1.2418,Feature pairing
+Building_Pooling,Buyer_Approved_Price,0.1233,0.4713,1.2404,0.0239,1.1728,Feature pairing
+Building_Pooling,WhatsApp_Updates,0.1325,0.5064,1.2376,0.0254,1.1969,Feature pairing
+Buyer_Approved_Price + Supplier_Bid_Compare,Refund_If_Campaign_Fails,0.1325,0.5889,1.2354,0.0252,1.273,Feature pairing
+Buyer_Approved_Price,Refund_If_Campaign_Fails,0.2233,0.5877,1.233,0.0422,1.2694,Feature pairing
+Refund_If_Campaign_Fails,Buyer_Approved_Price,0.2233,0.4685,1.233,0.0422,1.1666,Feature pairing
+Building_Pooling,Savings_Ledger,0.1442,0.551,1.2312,0.0271,1.2304,Feature pairing
+Referral_Rewards,Buyer_Approved_Price,0.1367,0.4581,1.2055,0.0233,1.1441,Feature pairing
+Buyer_Approved_Price + Refund_If_Campaign_Fails,Savings_Ledger,0.1192,0.5336,1.1924,0.0192,1.1846,Feature pairing
+Buyer_Approved_Price,Savings_Ledger,0.2008,0.5285,1.181,0.0308,1.1718,Feature pairing
+Pay_After_Approval + Refund_If_Campaign_Fails,Savings_Ledger,0.1242,0.5246,1.1724,0.0183,1.1623,Feature pairing
+Buyer_Approved_Price + WhatsApp_Updates,Refund_If_Campaign_Fails,0.1008,0.5576,1.1698,0.0146,1.183,Feature pairing
+Savings_Ledger,WhatsApp_Updates,0.2142,0.4786,1.1697,0.0311,1.1331,Feature pairing
+WhatsApp_Updates,Savings_Ledger,0.2142,0.5234,1.1697,0.0311,1.1593,Feature pairing
+Consolidated_Delivery,Supplier_Bid_Compare,0.1683,0.5063,1.1638,0.0237,1.1443,Feature pairing
+Buyer_Approved_Price,WhatsApp_Updates,0.1808,0.4759,1.163,0.0254,1.1273,Feature pairing
+WhatsApp_Updates,Supplier_Bid_Compare,0.2058,0.5031,1.1564,0.0278,1.1369,Feature pairing
+Supplier_Bid_Compare,WhatsApp_Updates,0.2058,0.4732,1.1564,0.0278,1.1215,Feature pairing
+BNPL_Tabby_Tamara,Savings_Ledger,0.1475,0.516,1.1532,0.0196,1.1416,Feature pairing
+Pay_After_Approval + Refund_If_Campaign_Fails,Supplier_Bid_Compare,0.1183,0.5,1.1494,0.0154,1.13,Feature pairing
+Refund_If_Campaign_Fails + Supplier_Bid_Compare,WhatsApp_Updates,0.1025,0.4659,1.1387,0.0125,1.1062,Feature pairing
+Referral_Rewards,Supplier_Bid_Compare,0.1475,0.4944,1.1366,0.0177,1.1175,Feature pairing
+Savings_Ledger + Supplier_Bid_Compare,Refund_If_Campaign_Fails,0.1408,0.5417,1.1364,0.0169,1.1418,Feature pairing
+Referral_Rewards,Savings_Ledger,0.1517,0.5084,1.136,0.0182,1.1238,Feature pairing
+Building_Pooling,Supplier_Bid_Compare,0.1283,0.4904,1.1275,0.0145,1.1088,Feature pairing
+Consolidated_Delivery,Savings_Ledger,0.1675,0.5038,1.1257,0.0187,1.1134,Feature pairing
+Refund_If_Campaign_Fails + Savings_Ledger,WhatsApp_Updates,0.105,0.4599,1.1239,0.0116,1.0938,Feature pairing
+Supplier_Verified_Badge,Supplier_Bid_Compare,0.1892,0.4861,1.1174,0.0199,1.0994,Feature pairing
+BNPL_Tabby_Tamara,Supplier_Bid_Compare,0.1375,0.481,1.1059,0.0132,1.0887,Feature pairing
+Buyer_Approved_Price + Refund_If_Campaign_Fails,WhatsApp_Updates,0.1008,0.4515,1.1034,0.0095,1.0772,Feature pairing
+Pay_After_Approval,Savings_Ledger,0.1875,0.486,1.0859,0.0148,1.0748,Feature pairing
+Savings_Ledger,Refund_If_Campaign_Fails,0.2283,0.5102,1.0704,0.015,1.0686,Feature pairing
+Refund_If_Campaign_Fails,Savings_Ledger,0.2283,0.479,1.0704,0.015,1.0605,Feature pairing
+Supplier_Bid_Compare,Refund_If_Campaign_Fails,0.22,0.5057,1.061,0.0126,1.0588,Feature pairing
+Refund_If_Campaign_Fails,Supplier_Bid_Compare,0.22,0.4615,1.061,0.0126,1.0493,Feature pairing

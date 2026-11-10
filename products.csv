@@ -1,0 +1,49 @@
+Product_ID,Category,Product_Name,Unit,Reference_Price_AED,Bulk_Discount_Ceiling
+P001,Groceries_Staples,Basmati Rice 10kg,bag,62,0.14
+P002,Groceries_Staples,Sunflower Oil 5L,bottle,38,0.14
+P003,Groceries_Staples,Sugar 5kg,bag,22,0.14
+P004,Groceries_Staples,Lentils 5kg,bag,41,0.14
+P005,Household_Cleaning,Laundry Liquid 5L,bottle,48,0.2
+P006,Household_Cleaning,Dishwash 5L,bottle,26,0.2
+P007,Household_Cleaning,Floor Cleaner 5L,bottle,24,0.2
+P008,Household_Cleaning,Bin Liners 100pc,pack,29,0.2
+P009,Personal_Care,Shampoo 1L,bottle,32,0.18
+P010,Personal_Care,Hand Soap 5L,bottle,34,0.18
+P011,Personal_Care,Toothpaste 6-pack,pack,36,0.18
+P012,Personal_Care,Body Wash 1L,bottle,28,0.18
+P013,Baby_Kids,Diapers Jumbo Pack,pack,89,0.15
+P014,Baby_Kids,Baby Wipes 12-pack,pack,54,0.15
+P015,Baby_Kids,Formula 900g,tin,98,0.15
+P016,Baby_Kids,School Stationery Set,set,46,0.15
+P017,Electronics,Wireless Earbuds,unit,179,0.09
+P018,Electronics,Power Bank 20000mAh,unit,109,0.09
+P019,Electronics,24-inch Monitor,unit,499,0.09
+P020,Electronics,Smart Plug 4-pack,pack,129,0.09
+P021,Home_Appliances,Air Fryer 5L,unit,299,0.12
+P022,Home_Appliances,Vacuum Cleaner,unit,449,0.12
+P023,Home_Appliances,Water Dispenser,unit,549,0.12
+P024,Home_Appliances,Blender,unit,189,0.12
+P025,Furniture_Decor,Office Chair,unit,399,0.2
+P026,Furniture_Decor,Bookshelf,unit,259,0.2
+P027,Furniture_Decor,Blackout Curtains,set,149,0.2
+P028,Furniture_Decor,LED Floor Lamp,unit,119,0.2
+P029,Office_Supplies,A4 Paper Box,box,115,0.2
+P030,Office_Supplies,Toner Cartridge,unit,229,0.2
+P031,Office_Supplies,Pens 50-pack,pack,39,0.2
+P032,Office_Supplies,Sticky Notes Bulk,pack,44,0.2
+P033,Water_Beverages,Water 5-Gallon x4,bundle,36,0.18
+P034,Water_Beverages,Bottled Water 24-pack,pack,19,0.18
+P035,Water_Beverages,Tea 300 bags,box,42,0.18
+P036,Water_Beverages,Coffee Beans 1kg,bag,85,0.18
+P037,Fitness_Sports,Yoga Mat,unit,69,0.18
+P038,Fitness_Sports,Dumbbell Set 20kg,set,229,0.18
+P039,Fitness_Sports,Whey Protein 2kg,tub,249,0.18
+P040,Fitness_Sports,Resistance Bands,set,59,0.18
+P041,Fresh_Produce_Meat,Frozen Chicken 10kg,case,139,0.1
+P042,Fresh_Produce_Meat,Fruit Box 5kg,box,65,0.1
+P043,Fresh_Produce_Meat,Vegetable Box 5kg,box,49,0.1
+P044,Fresh_Produce_Meat,Eggs 90-tray,tray,52,0.1
+P045,Pet_Supplies,Dry Dog Food 12kg,bag,169,0.16
+P046,Pet_Supplies,Cat Litter 15L,bag,59,0.16
+P047,Pet_Supplies,Cat Food 24-pack,pack,96,0.16
+P048,Pet_Supplies,Pet Pads 100pc,pack,79,0.16

@@ -1,0 +1,13 @@
+issue,column,rows_affected,action
+Duplicate submissions,Resp_ID,15,Kept first submission
+Text-formatted or error spend,B1_Monthly_Spend_Eligible_AED,23,Parsed text; -1 set missing
+Out-of-range value,A2_Age,4,Outside 18-80 set missing
+Out-of-range value,A6_Household_Size,6,Outside 1-10 set missing
+Out-of-range value,A7_Monthly_Income_AED,13,Outside 2000-150000 set missing
+Out-of-range value,B2_Online_Orders_Per_Month,5,Outside 0-40 set missing
+Out-of-range value,F1_Min_Discount_To_Switch_Pct,6,Outside 0-60 set missing
+Out-of-range value,G1_Likelihood_Join_Next_3M_0to10,4,Outside 0-10 set missing
+Inconsistent labels,A3_Gender,79,Standardised
+Inconsistent labels,A5_Area,42,Standardised
+Inconsistent labels,B3_Primary_Channel,33,Standardised
+Inconsistent labels,G2_Register_For_Pilot,82,Standardised

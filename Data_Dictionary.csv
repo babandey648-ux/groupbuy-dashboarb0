@@ -1,0 +1,108 @@
+Table,Column,Type,Source,Why_Required,Used_In
+customers,Customer_ID,str,"Mock survey, cleaned",Identifier: links tables and removes duplicates,Joins only
+customers,Survey_Date,str,"Mock survey, cleaned",Identifies source and buyer type (SME or household),"EDA, classification, regression"
+customers,Survey_Channel,str,"Mock survey, cleaned",Identifies source and buyer type (SME or household),"EDA, classification, regression"
+customers,A1_Respondent_Type,str,"Mock survey, cleaned",Identifies source and buyer type (SME or household),"EDA, classification, regression"
+customers,A2_Age,float64,"Mock survey, cleaned",Profiles who the buyer is and where to pool demand,"EDA, clustering; gender and nationality excluded from models"
+customers,A3_Gender,str,"Mock survey, cleaned",Profiles who the buyer is and where to pool demand,"EDA, clustering; gender and nationality excluded from models"
+customers,A4_Nationality_Group,str,"Mock survey, cleaned",Profiles who the buyer is and where to pool demand,"EDA, clustering; gender and nationality excluded from models"
+customers,A5_Area,str,"Mock survey, cleaned",Profiles who the buyer is and where to pool demand,"EDA, clustering; gender and nationality excluded from models"
+customers,A6_Household_Size,float64,"Mock survey, cleaned",Profiles who the buyer is and where to pool demand,"EDA, clustering; gender and nationality excluded from models"
+customers,A7_Monthly_Income_AED,float64,"Mock survey, cleaned",Profiles who the buyer is and where to pool demand,"EDA, clustering; gender and nationality excluded from models"
+customers,A8_Occupation,str,"Mock survey, cleaned",Profiles who the buyer is and where to pool demand,"EDA, clustering; gender and nationality excluded from models"
+customers,A9_SME_Employees,float64,"Mock survey, cleaned",Identifies source and buyer type (SME or household),"EDA, classification, regression"
+customers,B1_Monthly_Spend_Eligible_AED,float64,"Mock survey, cleaned","Measures current buying behaviour, spend and delivery tolerance","Clustering, classification, regression"
+customers,B2_Online_Orders_Per_Month,float64,"Mock survey, cleaned","Measures current buying behaviour, spend and delivery tolerance","Clustering, classification, regression"
+customers,B3_Primary_Channel,str,"Mock survey, cleaned","Measures current buying behaviour, spend and delivery tolerance","Clustering, classification, regression"
+customers,B4_Used_Group_Buying_Before,str,"Mock survey, cleaned","Measures current buying behaviour, spend and delivery tolerance","Clustering, classification, regression"
+customers,B5_In_Community_WhatsApp_Buying_Group,str,"Mock survey, cleaned","Measures current buying behaviour, spend and delivery tolerance","Clustering, classification, regression"
+customers,B6_Max_Delivery_Fee_AED,float64,"Mock survey, cleaned","Measures current buying behaviour, spend and delivery tolerance","Clustering, classification, regression"
+customers,C1_Price_Consciousness,int64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,C2_Willing_To_Wait_For_Deal,int64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,C3_Trust_New_Platforms,int64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,C4_Social_Influence,int64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,C5_Convenience_Priority,int64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,C6_Quality_Concern,int64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,C7_Values_Price_Transparency,int64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,C8_Sustainability_Concern,float64,"Mock survey, cleaned","Tests whether attitudes fit a slow, pooled, trust-based model","Clustering, classification, correlation"
+customers,CAT_Groceries_Staples,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Household_Cleaning,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Personal_Care,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Baby_Kids,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Electronics,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Home_Appliances,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Furniture_Decor,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Office_Supplies,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Water_Beverages,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Fitness_Sports,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Fresh_Produce_Meat,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,CAT_Pet_Supplies,int64,"Mock survey, cleaned",Shows which categories to pool,"Apriori, campaign simulation"
+customers,FEAT_Savings_Ledger,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Buyer_Approved_Price,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Supplier_Bid_Compare,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Pay_After_Approval,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Refund_If_Campaign_Fails,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_WhatsApp_Updates,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Building_Pooling,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Consolidated_Delivery,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_BNPL_Tabby_Tamara,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Supplier_Verified_Badge,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_VAT_Invoice,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Referral_Rewards,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,FEAT_Extended_Warranty,int64,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,E2_Most_Important_Feature,str,"Mock survey, cleaned",Shows which platform features to build,"Apriori, classification"
+customers,F1_Min_Discount_To_Switch_Pct,float64,"Mock survey, cleaned","Sets the discount, wait and payment terms buyers need","Clustering, classification, diagnostics"
+customers,F2_Max_Wait_Days,float64,"Mock survey, cleaned","Sets the discount, wait and payment terms buyers need","Clustering, classification, diagnostics"
+customers,F3_Membership_WTP_AED_Month,float64,"Mock survey, cleaned","Sets the discount, wait and payment terms buyers need","Clustering, classification, diagnostics"
+customers,F4_Preferred_Payment,str,"Mock survey, cleaned","Sets the discount, wait and payment terms buyers need","Clustering, classification, diagnostics"
+customers,G1_Likelihood_Join_Next_3M_0to10,float64,"Mock survey, cleaned","Measures intent; a target, so it is excluded as a predictor","Classification target, funnel"
+customers,G2_Register_For_Pilot,str,"Mock survey, cleaned","Measures intent; a target, so it is excluded as a predictor","Classification target, funnel"
+customers,G3_Share_Contact_For_Pilot,str,"Mock survey, cleaned","Measures intent; a target, so it is excluded as a predictor","Classification target, funnel"
+customers,G4_Expected_Order_Value_AED,int64,"Mock survey, cleaned",Stated order value; needed to size campaigns,"Regression target, simulation"
+customers,H1_Biggest_Frustration_Or_Comment,str,"Mock survey, cleaned",Open feedback on objections; excluded to avoid leakage,Descriptive only
+customers,Conversion_Score_0to10,float64,"Mock survey, cleaned","Measures intent; a target, so it is excluded as a predictor","Classification target, funnel"
+customers,Conversion_Segment,str,"Mock survey, cleaned","Measures intent; a target, so it is excluded as a predictor","Classification target, funnel"
+customers,Is_SME,int64,"Mock survey, cleaned",Identifies source and buyer type (SME or household),"EDA, classification, regression"
+products,Product_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+products,Category,str,Synthetic,"Links demand, pricing and bundling","EDA, simulation"
+products,Product_Name,str,Synthetic,Describes the campaign item,Reference
+products,Unit,str,Synthetic,Defines comparable quantity,Reference
+products,Reference_Price_AED,int64,Synthetic,Benchmark for verifying savings,Net discount
+products,Bulk_Discount_Ceiling,float64,Synthetic,Limits how much suppliers can discount,Simulation
+suppliers,Supplier_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+suppliers,Supplier_Name,str,Synthetic,Labels fictional supplier,Reference
+suppliers,Categories,str,Synthetic,Which categories a supplier serves,Simulation
+suppliers,Reliability,float64,Synthetic,Drives on-time fulfilment risk,Simulation
+suppliers,Price_Competitiveness,float64,Synthetic,Varies supplier pricing,Simulation
+campaigns,Campaign_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+campaigns,Start_Date,str,Synthetic,Enables monthly trends,Time series
+campaigns,Duration_Days,int64,Synthetic,Tests buyer waiting tolerance,Simulation
+campaigns,Category,str,Synthetic,"Links demand, pricing and bundling","EDA, simulation"
+campaigns,Product_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+campaigns,Supplier_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+campaigns,Reference_Price_AED,int64,Synthetic,Benchmark for verifying savings,Net discount
+campaigns,Target_Qty,int64,Synthetic,Campaign viability threshold,Gate check
+campaigns,Pledged_Qty,int64,Synthetic,Pooled demand achieved,Gate check
+campaigns,Committed_Buyers,int64,Synthetic,Campaign reach,Conversion
+campaigns,Supplier_Bids,int64,Synthetic,Measures supplier competition,Diagnostics
+campaigns,Delivered_Price_AED,float64,Synthetic,Final price after delivery,Net savings
+campaigns,Net_Discount_Pct,float64,Synthetic,Real saving buyers receive,Diagnostics
+campaigns,Status,str,Synthetic,Outcome of the Trust Rule,Funnel
+campaigns,Paid_Buyers,int64,Synthetic,Conversion to payment,Funnel
+campaigns,Paid_Qty,int64,Synthetic,Fulfilled volume,Funnel
+campaigns,GMV_AED,float64,Synthetic,Transaction value,Sales analysis
+campaigns,On_Time,float64,Synthetic,Fulfilment KPI from the deck,Operations
+transactions,Transaction_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+transactions,Campaign_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+transactions,Customer_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+transactions,Campaign_Start,str,Synthetic,Enables monthly trends,Time series
+transactions,Category,str,Synthetic,"Links demand, pricing and bundling","EDA, simulation"
+transactions,Product_ID,str,Synthetic,Identifier: links tables and removes duplicates,Joins only
+transactions,Quantity,int64,Synthetic,Buyer order size,Sales analysis
+transactions,Committed_Value_AED,int64,Synthetic,Commitment before offer,Funnel
+transactions,Paid,int64,Synthetic,Commitment converted to order,Funnel
+transactions,GMV_AED,float64,Synthetic,Transaction value,Sales analysis
+transactions,Savings_AED,float64,Synthetic,Verified buyer savings,Value proposition
+transactions,Commission_AED,float64,Synthetic,Revenue at 7%,Unit economics
+transactions,Variable_Cost_AED,float64,Synthetic,Cost at 2%,Unit economics
+transactions,Dispute,int64,Synthetic,Fulfilment quality KPI,Operations

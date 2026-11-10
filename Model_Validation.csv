@@ -1,0 +1,33 @@
+Task,Test,Model,Metric,Mean,SD,Note
+Classification,Repeated 5-fold CV,Baseline,f1,0.0,0.0,
+Classification,Repeated 5-fold CV,Baseline,roc_auc,0.5,0.0,
+Classification,Repeated 5-fold CV,Baseline,recall,0.0,0.0,
+Classification,Repeated 5-fold CV,Baseline,precision,0.0,0.0,
+Classification,Repeated 5-fold CV,Baseline,accuracy,0.7242,0.0017,
+Classification,Repeated 5-fold CV,Logistic Regression,f1,0.667,0.0297,
+Classification,Repeated 5-fold CV,Logistic Regression,roc_auc,0.8584,0.0205,
+Classification,Repeated 5-fold CV,Logistic Regression,recall,0.7855,0.0448,
+Classification,Repeated 5-fold CV,Logistic Regression,precision,0.5806,0.0314,
+Classification,Repeated 5-fold CV,Logistic Regression,accuracy,0.7836,0.0214,
+Classification,Repeated 5-fold CV,Random Forest,f1,0.673,0.0427,
+Classification,Repeated 5-fold CV,Random Forest,roc_auc,0.8666,0.0314,
+Classification,Repeated 5-fold CV,Random Forest,recall,0.8198,0.0526,
+Classification,Repeated 5-fold CV,Random Forest,precision,0.572,0.0441,
+Classification,Repeated 5-fold CV,Random Forest,accuracy,0.7797,0.0332,
+Classification,Shuffled labels (should be near 0.5),Random Forest,roc_auc,0.4925,0.0212,
+Regression,Repeated 5-fold CV,Baseline,R2,-0.0062,0.0047,
+Regression,Repeated 5-fold CV,Baseline,MAE_AED,478.9349,32.8634,
+Regression,Repeated 5-fold CV,Linear Regression,R2,0.5293,0.0766,
+Regression,Repeated 5-fold CV,Linear Regression,MAE_AED,316.3844,19.1985,
+Regression,Repeated 5-fold CV,Random Forest,R2,0.7378,0.0303,
+Regression,Repeated 5-fold CV,Random Forest,MAE_AED,223.6219,17.0792,
+Clustering,Refit on 30 random 80% samples,K-Means k=5,Adjusted Rand Index,0.9898,0.0052,1 = same segments; 0 = random
+Association,Split-half: rules found in both halves,Apriori,Share of half-A rules,0.9538,,65 and 117 rules; 62 shared
+Association,Split-half: lift agreement,Apriori,Correlation of lift,0.9521,,
+Automation,Contact top 10% (120 leads),Lead score,Share of high-intent found,0.287,,95 of 331; precision 0.792; random would find about 33
+Automation,Contact top 20% (240 leads),Lead score,Share of high-intent found,0.5287,,175 of 331; precision 0.729; random would find about 66
+Automation,Contact top 30% (360 leads),Lead score,Share of high-intent found,0.6949,,230 of 331; precision 0.639; random would find about 99
+Automation,Contact top 40% (480 leads),Lead score,Share of high-intent found,0.8187,,271 of 331; precision 0.565; random would find about 132
+Automation,Contact top 50% (600 leads),Lead score,Share of high-intent found,0.9063,,300 of 331; precision 0.500; random would find about 166
+Automation,"Forecast of 40-buyer campaign value (1,000 samples)",Random Forest,Median absolute % error,0.0525,,
+Automation,"Forecast of 40-buyer campaign value (1,000 samples)",Average order value,Median absolute % error,0.1061,,

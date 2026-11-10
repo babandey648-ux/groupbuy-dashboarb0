@@ -1,0 +1,25 @@
+Supplier_ID,Supplier_Name,Categories,Reliability,Price_Competitiveness
+S01,Supplier 01 (fictional),Home_Appliances|Groceries_Staples|Fresh_Produce_Meat|Office_Supplies,0.76,-0.0002
+S02,Supplier 02 (fictional),Electronics|Pet_Supplies|Furniture_Decor|Water_Beverages,0.82,0.0044
+S03,Supplier 03 (fictional),Fitness_Sports|Office_Supplies|Pet_Supplies|Groceries_Staples,0.844,-0.0042
+S04,Supplier 04 (fictional),Home_Appliances|Pet_Supplies|Baby_Kids|Furniture_Decor,0.894,-0.0098
+S05,Supplier 05 (fictional),Water_Beverages|Personal_Care|Groceries_Staples|Electronics,0.756,-0.0141
+S06,Supplier 06 (fictional),Electronics|Baby_Kids|Groceries_Staples|Fitness_Sports,0.787,0.0081
+S07,Supplier 07 (fictional),Water_Beverages|Office_Supplies|Groceries_Staples|Fitness_Sports,0.892,0.0179
+S08,Supplier 08 (fictional),Furniture_Decor|Pet_Supplies|Office_Supplies|Electronics,0.793,0.0095
+S09,Supplier 09 (fictional),Groceries_Staples|Baby_Kids|Home_Appliances|Pet_Supplies,0.886,0.0017
+S10,Supplier 10 (fictional),Baby_Kids|Household_Cleaning|Electronics|Office_Supplies,0.84,-0.0044
+S11,Supplier 11 (fictional),Groceries_Staples|Pet_Supplies|Fitness_Sports|Water_Beverages,0.819,-0.0012
+S12,Supplier 12 (fictional),Water_Beverages|Household_Cleaning|Personal_Care|Baby_Kids,0.887,-0.0109
+S13,Supplier 13 (fictional),Pet_Supplies|Electronics|Water_Beverages|Personal_Care,0.898,0.0101
+S14,Supplier 14 (fictional),Furniture_Decor|Water_Beverages|Personal_Care|Office_Supplies,0.828,0.0028
+S15,Supplier 15 (fictional),Office_Supplies|Household_Cleaning|Furniture_Decor|Personal_Care,0.747,0.0043
+S16,Supplier 16 (fictional),Furniture_Decor|Groceries_Staples|Personal_Care|Household_Cleaning,0.925,-0.0027
+S17,Supplier 17 (fictional),Home_Appliances|Household_Cleaning|Electronics|Fitness_Sports,0.88,-0.0256
+S18,Supplier 18 (fictional),Groceries_Staples|Personal_Care|Pet_Supplies|Water_Beverages,0.735,-0.0019
+S19,Supplier 19 (fictional),Home_Appliances|Personal_Care|Household_Cleaning|Baby_Kids,0.853,-0.006
+S20,Supplier 20 (fictional),Fresh_Produce_Meat|Fitness_Sports|Pet_Supplies|Personal_Care,0.857,0.0112
+S21,Supplier 21 (fictional),Furniture_Decor|Personal_Care|Home_Appliances|Pet_Supplies,0.855,0.0019
+S22,Supplier 22 (fictional),Household_Cleaning|Water_Beverages|Personal_Care|Fitness_Sports,0.771,0.0184
+S23,Supplier 23 (fictional),Personal_Care|Groceries_Staples|Baby_Kids|Pet_Supplies,0.918,-0.0133
+S24,Supplier 24 (fictional),Baby_Kids|Personal_Care|Household_Cleaning|Pet_Supplies,0.828,0.0011

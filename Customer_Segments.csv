@@ -1,0 +1,1201 @@
+Customer_ID,Cluster,Segment,PC1,PC2
+GB0001,3,Affluent Convenience Seekers,-4.325,-0.032
+GB0002,0,Social Online Shoppers,1.154,0.557
+GB0003,1,Cautious Sceptics,0.365,-3.396
+GB0004,3,Affluent Convenience Seekers,-4.61,0.161
+GB0005,4,Bulk Value Seekers,2.567,0.502
+GB0006,1,Cautious Sceptics,0.929,-1.753
+GB0007,3,Affluent Convenience Seekers,-3.297,0.346
+GB0008,3,Affluent Convenience Seekers,-2.844,-0.772
+GB0009,4,Bulk Value Seekers,2.163,-0.051
+GB0010,0,Social Online Shoppers,-0.458,1.074
+GB0011,4,Bulk Value Seekers,1.585,-0.044
+GB0012,1,Cautious Sceptics,-0.012,-2.735
+GB0013,3,Affluent Convenience Seekers,-2.724,1.213
+GB0014,1,Cautious Sceptics,1.237,-2.815
+GB0015,1,Cautious Sceptics,0.335,-0.982
+GB0016,4,Bulk Value Seekers,2.522,-0.363
+GB0017,2,SME Procurement Buyers,0.939,2.46
+GB0018,4,Bulk Value Seekers,1.869,-0.204
+GB0019,1,Cautious Sceptics,-0.492,-2.422
+GB0020,2,SME Procurement Buyers,1.232,1.803
+GB0021,3,Affluent Convenience Seekers,-3.529,-0.719
+GB0022,0,Social Online Shoppers,0.627,0.839
+GB0023,1,Cautious Sceptics,0.467,-0.961
+GB0024,1,Cautious Sceptics,1.916,-1.692
+GB0025,3,Affluent Convenience Seekers,-3.438,0.9
+GB0026,4,Bulk Value Seekers,1.382,0.689
+GB0027,0,Social Online Shoppers,0.523,0.733
+GB0028,4,Bulk Value Seekers,1.849,0.559
+GB0029,4,Bulk Value Seekers,1.933,0.728
+GB0030,3,Affluent Convenience Seekers,-5.063,0.655
+GB0031,3,Affluent Convenience Seekers,-3.62,0.798
+GB0032,1,Cautious Sceptics,0.506,-2.808
+GB0033,0,Social Online Shoppers,-0.183,1.314
+GB0034,0,Social Online Shoppers,-0.336,0.919
+GB0035,0,Social Online Shoppers,0.543,0.86
+GB0036,4,Bulk Value Seekers,2.277,-0.38
+GB0037,4,Bulk Value Seekers,1.376,0.047
+GB0038,0,Social Online Shoppers,0.389,0.033
+GB0039,4,Bulk Value Seekers,1.6,0.351
+GB0040,3,Affluent Convenience Seekers,-3.806,0.519
+GB0041,0,Social Online Shoppers,-0.602,0.257
+GB0042,1,Cautious Sceptics,0.433,-2.724
+GB0043,3,Affluent Convenience Seekers,-3.867,-1.908
+GB0044,0,Social Online Shoppers,-0.287,-0.779
+GB0045,1,Cautious Sceptics,0.392,-2.097
+GB0046,3,Affluent Convenience Seekers,-3.781,-0.74
+GB0047,0,Social Online Shoppers,-0.324,0.647
+GB0048,0,Social Online Shoppers,0.018,0.817
+GB0049,3,Affluent Convenience Seekers,-3.855,1.006
+GB0050,4,Bulk Value Seekers,1.425,-0.228
+GB0051,4,Bulk Value Seekers,2.225,0.194
+GB0052,4,Bulk Value Seekers,2.233,0.499
+GB0053,3,Affluent Convenience Seekers,-4.618,-1.078
+GB0054,3,Affluent Convenience Seekers,-4.367,0.173
+GB0055,3,Affluent Convenience Seekers,-3.924,0.833
+GB0056,3,Affluent Convenience Seekers,-2.948,0.98
+GB0057,0,Social Online Shoppers,-0.319,0.983
+GB0058,2,SME Procurement Buyers,0.304,2.112
+GB0059,4,Bulk Value Seekers,1.987,0.105
+GB0060,4,Bulk Value Seekers,3.127,0.552
+GB0061,3,Affluent Convenience Seekers,-3.698,0.209
+GB0062,0,Social Online Shoppers,-1.059,-0.91
+GB0063,2,SME Procurement Buyers,0.16,1.437
+GB0064,3,Affluent Convenience Seekers,-3.533,0.538
+GB0065,2,SME Procurement Buyers,0.471,1.695
+GB0066,2,SME Procurement Buyers,0.474,1.946
+GB0067,2,SME Procurement Buyers,-0.66,1.118
+GB0068,0,Social Online Shoppers,-1.063,-0.334
+GB0069,4,Bulk Value Seekers,2.413,0.13
+GB0070,0,Social Online Shoppers,-0.468,-0.13
+GB0071,4,Bulk Value Seekers,2.498,1.111
+GB0072,0,Social Online Shoppers,-0.087,0.846
+GB0073,1,Cautious Sceptics,0.612,-2.808
+GB0074,4,Bulk Value Seekers,2.693,0.534
+GB0075,4,Bulk Value Seekers,1.797,0.678
+GB0076,0,Social Online Shoppers,-0.252,-0.517
+GB0077,0,Social Online Shoppers,0.376,0.404
+GB0078,3,Affluent Convenience Seekers,-4.221,-0.094
+GB0079,2,SME Procurement Buyers,1.696,2.244
+GB0080,3,Affluent Convenience Seekers,-4.089,1.259
+GB0081,3,Affluent Convenience Seekers,-4.474,0.17
+GB0082,0,Social Online Shoppers,-0.001,0.21
+GB0083,3,Affluent Convenience Seekers,-3.86,0.911
+GB0084,4,Bulk Value Seekers,0.719,0.053
+GB0085,1,Cautious Sceptics,-0.266,-3.471
+GB0086,4,Bulk Value Seekers,2.327,1.799
+GB0087,3,Affluent Convenience Seekers,-4.085,0.101
+GB0088,0,Social Online Shoppers,-0.531,-0.472
+GB0089,4,Bulk Value Seekers,1.939,0.94
+GB0090,2,SME Procurement Buyers,-0.343,2.898
+GB0091,4,Bulk Value Seekers,0.849,-0.377
+GB0092,3,Affluent Convenience Seekers,-4.78,0.053
+GB0093,0,Social Online Shoppers,-0.168,0.508
+GB0094,0,Social Online Shoppers,-0.079,0.523
+GB0095,0,Social Online Shoppers,-0.144,0.744
+GB0096,2,SME Procurement Buyers,0.805,1.654
+GB0097,0,Social Online Shoppers,-0.207,-0.561
+GB0098,4,Bulk Value Seekers,1.467,-0.276
+GB0099,2,SME Procurement Buyers,2.594,2.197
+GB0100,1,Cautious Sceptics,-0.158,-1.804
+GB0101,1,Cautious Sceptics,1.557,-2.214
+GB0102,3,Affluent Convenience Seekers,-3.009,0.113
+GB0103,0,Social Online Shoppers,1.377,0.525
+GB0104,1,Cautious Sceptics,0.553,-1.69
+GB0105,3,Affluent Convenience Seekers,-3.559,-0.956
+GB0106,3,Affluent Convenience Seekers,-4.122,0.239
+GB0107,0,Social Online Shoppers,-0.596,0.258
+GB0108,0,Social Online Shoppers,0.987,0.409
+GB0109,4,Bulk Value Seekers,1.893,-0.024
+GB0110,1,Cautious Sceptics,-0.244,-2.574
+GB0111,0,Social Online Shoppers,1.385,0.544
+GB0112,4,Bulk Value Seekers,1.952,1.133
+GB0113,0,Social Online Shoppers,1.239,0.419
+GB0114,2,SME Procurement Buyers,1.632,1.558
+GB0115,4,Bulk Value Seekers,1.032,-1.254
+GB0116,1,Cautious Sceptics,-0.25,-2.519
+GB0117,3,Affluent Convenience Seekers,-4.542,0.227
+GB0118,3,Affluent Convenience Seekers,-2.916,1.396
+GB0119,0,Social Online Shoppers,0.606,1.151
+GB0120,2,SME Procurement Buyers,0.381,2.24
+GB0121,2,SME Procurement Buyers,0.252,1.872
+GB0122,3,Affluent Convenience Seekers,-4.235,0.479
+GB0123,1,Cautious Sceptics,-0.987,-3.005
+GB0124,0,Social Online Shoppers,-0.094,0.513
+GB0125,4,Bulk Value Seekers,1.572,-0.512
+GB0126,4,Bulk Value Seekers,2.627,-0.796
+GB0127,0,Social Online Shoppers,-0.069,0.437
+GB0128,4,Bulk Value Seekers,2.928,1.097
+GB0129,4,Bulk Value Seekers,1.73,0.965
+GB0130,2,SME Procurement Buyers,0.446,1.389
+GB0131,4,Bulk Value Seekers,1.869,-0.154
+GB0132,1,Cautious Sceptics,-0.627,-2.385
+GB0133,2,SME Procurement Buyers,0.91,1.29
+GB0134,0,Social Online Shoppers,0.689,1.421
+GB0135,2,SME Procurement Buyers,0.911,1.058
+GB0136,4,Bulk Value Seekers,1.929,-0.528
+GB0137,1,Cautious Sceptics,0.158,-2.701
+GB0138,0,Social Online Shoppers,-0.644,0.976
+GB0139,3,Affluent Convenience Seekers,-3.071,1.798
+GB0140,4,Bulk Value Seekers,1.516,-0.701
+GB0141,0,Social Online Shoppers,1.391,0.392
+GB0142,0,Social Online Shoppers,-0.849,0.523
+GB0143,1,Cautious Sceptics,-1.109,-2.684
+GB0144,2,SME Procurement Buyers,0.693,2.523
+GB0145,0,Social Online Shoppers,0.713,-0.737
+GB0146,0,Social Online Shoppers,-0.903,1.047
+GB0147,0,Social Online Shoppers,0.164,0.221
+GB0148,2,SME Procurement Buyers,-0.142,1.657
+GB0149,0,Social Online Shoppers,-0.483,0.493
+GB0150,4,Bulk Value Seekers,2.065,0.004
+GB0151,1,Cautious Sceptics,0.309,-2.779
+GB0152,1,Cautious Sceptics,0.023,-2.025
+GB0153,4,Bulk Value Seekers,1.179,-0.578
+GB0154,2,SME Procurement Buyers,0.126,1.808
+GB0155,4,Bulk Value Seekers,2.356,0.887
+GB0156,3,Affluent Convenience Seekers,-3.825,0.969
+GB0157,0,Social Online Shoppers,0.42,0.566
+GB0158,3,Affluent Convenience Seekers,-3.602,1.079
+GB0159,3,Affluent Convenience Seekers,-3.729,-0.16
+GB0160,3,Affluent Convenience Seekers,-4.473,-0.055
+GB0161,4,Bulk Value Seekers,1.739,-0.71
+GB0162,1,Cautious Sceptics,0.755,-2.672
+GB0163,4,Bulk Value Seekers,2.069,0.328
+GB0164,4,Bulk Value Seekers,2.252,0.503
+GB0165,2,SME Procurement Buyers,0.54,2.704
+GB0166,0,Social Online Shoppers,0.566,0.594
+GB0167,1,Cautious Sceptics,0.734,-3.157
+GB0168,3,Affluent Convenience Seekers,-3.915,0.173
+GB0169,0,Social Online Shoppers,0.649,-0.37
+GB0170,1,Cautious Sceptics,1.912,-3.078
+GB0171,0,Social Online Shoppers,-0.099,-0.784
+GB0172,2,SME Procurement Buyers,0.703,0.928
+GB0173,4,Bulk Value Seekers,2.296,0.34
+GB0174,1,Cautious Sceptics,0.505,-1.655
+GB0175,4,Bulk Value Seekers,1.792,-0.125
+GB0176,4,Bulk Value Seekers,2.32,-0.624
+GB0177,0,Social Online Shoppers,-0.654,0.805
+GB0178,1,Cautious Sceptics,-0.696,-2.406
+GB0179,1,Cautious Sceptics,0.873,-1.626
+GB0180,3,Affluent Convenience Seekers,-2.521,-0.093
+GB0181,1,Cautious Sceptics,-0.098,-3.703
+GB0182,1,Cautious Sceptics,0.118,-3.065
+GB0183,2,SME Procurement Buyers,0.868,1.462
+GB0184,0,Social Online Shoppers,-0.084,0.041
+GB0185,3,Affluent Convenience Seekers,-2.972,-0.381
+GB0186,3,Affluent Convenience Seekers,-5.096,-0.113
+GB0187,0,Social Online Shoppers,-0.194,0.561
+GB0188,4,Bulk Value Seekers,2.725,0.673
+GB0189,3,Affluent Convenience Seekers,-3.028,0.193
+GB0190,0,Social Online Shoppers,-0.134,1.127
+GB0191,1,Cautious Sceptics,0.405,-1.858
+GB0192,4,Bulk Value Seekers,1.329,-0.189
+GB0193,4,Bulk Value Seekers,1.441,0.134
+GB0194,1,Cautious Sceptics,0.096,-1.5
+GB0195,4,Bulk Value Seekers,2.161,-0.317
+GB0196,4,Bulk Value Seekers,0.823,0.846
+GB0197,2,SME Procurement Buyers,1.568,0.989
+GB0198,1,Cautious Sceptics,0.765,-1.607
+GB0199,4,Bulk Value Seekers,1.773,0.209
+GB0200,0,Social Online Shoppers,-0.314,0.862
+GB0201,3,Affluent Convenience Seekers,-5.229,-0.399
+GB0202,1,Cautious Sceptics,-0.679,-2.741
+GB0203,2,SME Procurement Buyers,0.065,2.766
+GB0204,4,Bulk Value Seekers,2.604,-0.129
+GB0205,0,Social Online Shoppers,1.422,0.994
+GB0206,4,Bulk Value Seekers,1.707,-0.164
+GB0207,4,Bulk Value Seekers,2.788,-0.269
+GB0208,3,Affluent Convenience Seekers,-2.578,0.709
+GB0209,4,Bulk Value Seekers,1.868,0.59
+GB0210,2,SME Procurement Buyers,0.628,2.38
+GB0211,3,Affluent Convenience Seekers,-4.231,1.15
+GB0212,2,SME Procurement Buyers,-1.215,1.45
+GB0213,4,Bulk Value Seekers,1.706,-0.647
+GB0214,3,Affluent Convenience Seekers,-2.418,1.074
+GB0215,3,Affluent Convenience Seekers,-3.477,0.923
+GB0216,3,Affluent Convenience Seekers,-4.308,0.507
+GB0217,0,Social Online Shoppers,0.842,0.498
+GB0218,4,Bulk Value Seekers,2.886,1.639
+GB0219,1,Cautious Sceptics,0.322,-3.073
+GB0220,0,Social Online Shoppers,-0.458,0.593
+GB0221,0,Social Online Shoppers,-0.121,1.313
+GB0222,0,Social Online Shoppers,1.059,0.195
+GB0223,3,Affluent Convenience Seekers,-2.81,0.787
+GB0224,1,Cautious Sceptics,0.738,-2.093
+GB0225,0,Social Online Shoppers,-0.608,-0.081
+GB0226,1,Cautious Sceptics,0.296,-2.318
+GB0227,4,Bulk Value Seekers,1.681,2.162
+GB0228,2,SME Procurement Buyers,0.824,0.988
+GB0229,2,SME Procurement Buyers,1.024,2.685
+GB0230,4,Bulk Value Seekers,2.022,0.739
+GB0231,4,Bulk Value Seekers,1.883,-0.676
+GB0232,0,Social Online Shoppers,0.357,0.389
+GB0233,1,Cautious Sceptics,-0.499,-2.562
+GB0234,2,SME Procurement Buyers,1.352,1.604
+GB0235,1,Cautious Sceptics,1.065,-1.355
+GB0236,3,Affluent Convenience Seekers,-3.533,0.506
+GB0237,2,SME Procurement Buyers,-1.222,2.008
+GB0238,3,Affluent Convenience Seekers,-4.256,1.84
+GB0239,4,Bulk Value Seekers,1.655,0.405
+GB0240,4,Bulk Value Seekers,2.129,-0.627
+GB0241,0,Social Online Shoppers,1.42,-0.705
+GB0242,3,Affluent Convenience Seekers,-5.068,0.281
+GB0243,4,Bulk Value Seekers,2.266,0.957
+GB0244,4,Bulk Value Seekers,0.831,1.902
+GB0245,2,SME Procurement Buyers,0.217,1.059
+GB0246,1,Cautious Sceptics,0.797,-2.722
+GB0247,2,SME Procurement Buyers,1.279,2.153
+GB0248,0,Social Online Shoppers,0.543,-0.063
+GB0249,0,Social Online Shoppers,0.095,0.583
+GB0250,0,Social Online Shoppers,-0.605,-1.173
+GB0251,3,Affluent Convenience Seekers,-3.979,0.912
+GB0252,1,Cautious Sceptics,1.579,-1.793
+GB0253,0,Social Online Shoppers,0.302,-1.438
+GB0254,4,Bulk Value Seekers,2.354,0.221
+GB0255,4,Bulk Value Seekers,1.46,0.51
+GB0256,3,Affluent Convenience Seekers,-3.57,0.161
+GB0257,3,Affluent Convenience Seekers,-3.975,0.942
+GB0258,4,Bulk Value Seekers,2.329,0.042
+GB0259,4,Bulk Value Seekers,2.183,0.602
+GB0260,2,SME Procurement Buyers,0.773,1.548
+GB0261,4,Bulk Value Seekers,1.677,1.227
+GB0262,1,Cautious Sceptics,-0.492,-0.814
+GB0263,0,Social Online Shoppers,0.521,0.517
+GB0264,4,Bulk Value Seekers,2.274,0.219
+GB0265,1,Cautious Sceptics,-0.397,-2.402
+GB0266,4,Bulk Value Seekers,3.406,1.344
+GB0267,0,Social Online Shoppers,0.172,0.707
+GB0268,0,Social Online Shoppers,1.234,1.255
+GB0269,4,Bulk Value Seekers,1.344,0.091
+GB0270,0,Social Online Shoppers,1.435,1.369
+GB0271,0,Social Online Shoppers,0.413,0.003
+GB0272,4,Bulk Value Seekers,2.128,0.352
+GB0273,4,Bulk Value Seekers,1.331,0.341
+GB0274,2,SME Procurement Buyers,0.82,1.874
+GB0275,3,Affluent Convenience Seekers,-3.086,0.942
+GB0276,0,Social Online Shoppers,0.566,0.707
+GB0277,0,Social Online Shoppers,1.055,-0.814
+GB0278,2,SME Procurement Buyers,0.093,1.508
+GB0279,1,Cautious Sceptics,-0.082,-2.046
+GB0280,1,Cautious Sceptics,0.131,-2.686
+GB0281,4,Bulk Value Seekers,1.753,0.281
+GB0282,4,Bulk Value Seekers,3.027,0.772
+GB0283,4,Bulk Value Seekers,2.286,0.66
+GB0284,4,Bulk Value Seekers,2.046,0.618
+GB0285,2,SME Procurement Buyers,0.789,2.402
+GB0286,0,Social Online Shoppers,-0.418,0.448
+GB0287,4,Bulk Value Seekers,2.127,0.876
+GB0288,0,Social Online Shoppers,-0.631,0.684
+GB0289,2,SME Procurement Buyers,1.079,1.813
+GB0290,4,Bulk Value Seekers,1.788,-0.259
+GB0291,1,Cautious Sceptics,-0.296,-2.685
+GB0292,4,Bulk Value Seekers,1.07,0.426
+GB0293,1,Cautious Sceptics,-0.227,-2.095
+GB0294,4,Bulk Value Seekers,1.551,-0.089
+GB0295,1,Cautious Sceptics,0.767,-1.868
+GB0296,1,Cautious Sceptics,0.922,-1.793
+GB0297,1,Cautious Sceptics,0.241,-1.99
+GB0298,3,Affluent Convenience Seekers,-2.882,-0.204
+GB0299,3,Affluent Convenience Seekers,-4.054,0.168
+GB0300,3,Affluent Convenience Seekers,-4.624,0.665
+GB0301,3,Affluent Convenience Seekers,-2.905,-0.15
+GB0302,4,Bulk Value Seekers,2.205,0.468
+GB0303,2,SME Procurement Buyers,-0.004,1.68
+GB0304,2,SME Procurement Buyers,0.652,3.284
+GB0305,0,Social Online Shoppers,1.112,0.85
+GB0306,0,Social Online Shoppers,1.27,0.204
+GB0307,0,Social Online Shoppers,-0.431,0.654
+GB0308,1,Cautious Sceptics,-1.486,-1.989
+GB0309,0,Social Online Shoppers,-0.064,1.292
+GB0310,4,Bulk Value Seekers,1.972,-0.764
+GB0311,0,Social Online Shoppers,0.141,0.776
+GB0312,0,Social Online Shoppers,-0.807,0.315
+GB0313,4,Bulk Value Seekers,1.963,0.667
+GB0314,0,Social Online Shoppers,0.661,1.244
+GB0315,0,Social Online Shoppers,-0.016,0.038
+GB0316,0,Social Online Shoppers,1.003,0.165
+GB0317,0,Social Online Shoppers,0.173,0.381
+GB0318,3,Affluent Convenience Seekers,-2.341,1.838
+GB0319,0,Social Online Shoppers,-0.216,-0.222
+GB0320,1,Cautious Sceptics,-0.763,-3.448
+GB0321,1,Cautious Sceptics,0.837,-2.99
+GB0322,0,Social Online Shoppers,0.009,0.826
+GB0323,0,Social Online Shoppers,0.279,0.389
+GB0324,2,SME Procurement Buyers,0.599,0.335
+GB0325,1,Cautious Sceptics,0.463,-2.281
+GB0326,3,Affluent Convenience Seekers,-3.587,0.217
+GB0327,3,Affluent Convenience Seekers,-4.016,0.21
+GB0328,2,SME Procurement Buyers,1.08,1.364
+GB0329,2,SME Procurement Buyers,-0.34,1.564
+GB0330,0,Social Online Shoppers,-0.498,0.642
+GB0331,3,Affluent Convenience Seekers,-3.645,0.548
+GB0332,0,Social Online Shoppers,1.05,-0.98
+GB0333,3,Affluent Convenience Seekers,-5.178,-0.192
+GB0334,1,Cautious Sceptics,-2.053,-2.474
+GB0335,4,Bulk Value Seekers,2.558,1.133
+GB0336,2,SME Procurement Buyers,0.573,1.253
+GB0337,4,Bulk Value Seekers,2.186,1.036
+GB0338,3,Affluent Convenience Seekers,-4.068,-0.032
+GB0339,4,Bulk Value Seekers,0.798,-0.374
+GB0340,1,Cautious Sceptics,0.184,-2.965
+GB0341,4,Bulk Value Seekers,1.248,1.274
+GB0342,1,Cautious Sceptics,1.326,-1.608
+GB0343,3,Affluent Convenience Seekers,-3.008,-0.384
+GB0344,2,SME Procurement Buyers,1.133,2.604
+GB0345,3,Affluent Convenience Seekers,-3.191,0.705
+GB0346,3,Affluent Convenience Seekers,-3.899,-0.971
+GB0347,1,Cautious Sceptics,-0.014,-2.338
+GB0348,4,Bulk Value Seekers,1.02,0.69
+GB0349,2,SME Procurement Buyers,1.349,1.5
+GB0350,0,Social Online Shoppers,1.132,0.317
+GB0351,2,SME Procurement Buyers,0.93,1.498
+GB0352,4,Bulk Value Seekers,2.652,0.53
+GB0353,2,SME Procurement Buyers,1.092,2.789
+GB0354,2,SME Procurement Buyers,0.884,3.075
+GB0355,0,Social Online Shoppers,-0.244,-0.095
+GB0356,2,SME Procurement Buyers,1.091,0.995
+GB0357,3,Affluent Convenience Seekers,-3.396,0.542
+GB0358,3,Affluent Convenience Seekers,-3.22,0.248
+GB0359,0,Social Online Shoppers,1.251,0.601
+GB0360,2,SME Procurement Buyers,1.068,1.821
+GB0361,1,Cautious Sceptics,0.067,-1.576
+GB0362,4,Bulk Value Seekers,1.814,0.537
+GB0363,4,Bulk Value Seekers,1.289,-0.565
+GB0364,4,Bulk Value Seekers,1.196,1.681
+GB0365,3,Affluent Convenience Seekers,-3.672,-0.922
+GB0366,0,Social Online Shoppers,-0.14,0.663
+GB0367,3,Affluent Convenience Seekers,-4.119,1.12
+GB0368,3,Affluent Convenience Seekers,-4.772,-0.248
+GB0369,0,Social Online Shoppers,0.232,1.624
+GB0370,1,Cautious Sceptics,1.767,-1.956
+GB0371,3,Affluent Convenience Seekers,-5.095,-0.917
+GB0372,0,Social Online Shoppers,0.446,0.17
+GB0373,0,Social Online Shoppers,0.058,0.097
+GB0374,0,Social Online Shoppers,2.026,1.013
+GB0375,4,Bulk Value Seekers,1.645,0.868
+GB0376,4,Bulk Value Seekers,2.6,-0.524
+GB0377,1,Cautious Sceptics,0.52,-1.962
+GB0378,0,Social Online Shoppers,0.238,-0.479
+GB0379,0,Social Online Shoppers,-0.407,-0.047
+GB0380,3,Affluent Convenience Seekers,-4.522,1.505
+GB0381,2,SME Procurement Buyers,0.198,1.417
+GB0382,1,Cautious Sceptics,0.631,-2.863
+GB0383,3,Affluent Convenience Seekers,-2.391,0.744
+GB0384,0,Social Online Shoppers,0.839,-0.132
+GB0385,0,Social Online Shoppers,-0.45,1.514
+GB0386,1,Cautious Sceptics,0.491,-2.009
+GB0387,3,Affluent Convenience Seekers,-4.634,-1.499
+GB0388,1,Cautious Sceptics,0.354,-3.127
+GB0389,4,Bulk Value Seekers,1.173,0.753
+GB0390,1,Cautious Sceptics,1.417,-2.127
+GB0391,2,SME Procurement Buyers,0.488,0.898
+GB0392,4,Bulk Value Seekers,1.712,0.412
+GB0393,2,SME Procurement Buyers,1.622,2.492
+GB0394,3,Affluent Convenience Seekers,-4.039,1.094
+GB0395,4,Bulk Value Seekers,2.552,0.038
+GB0396,0,Social Online Shoppers,0.779,-0.447
+GB0397,1,Cautious Sceptics,-0.343,-2.252
+GB0398,0,Social Online Shoppers,0.338,-0.426
+GB0399,0,Social Online Shoppers,0.372,-0.298
+GB0400,0,Social Online Shoppers,-0.197,0.552
+GB0401,0,Social Online Shoppers,0.663,0.491
+GB0402,1,Cautious Sceptics,1.418,-3.281
+GB0403,3,Affluent Convenience Seekers,-2.811,-0.251
+GB0404,4,Bulk Value Seekers,2.386,0.489
+GB0405,1,Cautious Sceptics,0.689,-3.118
+GB0406,1,Cautious Sceptics,1.086,-2.838
+GB0407,0,Social Online Shoppers,1.166,1.453
+GB0408,1,Cautious Sceptics,-0.095,-1.71
+GB0409,4,Bulk Value Seekers,1.223,0.932
+GB0410,1,Cautious Sceptics,-0.7,-3.231
+GB0411,3,Affluent Convenience Seekers,-3.378,-0.343
+GB0412,3,Affluent Convenience Seekers,-4.705,0.048
+GB0413,4,Bulk Value Seekers,1.41,-1.14
+GB0414,1,Cautious Sceptics,1.556,-1.953
+GB0415,4,Bulk Value Seekers,1.942,1.498
+GB0416,4,Bulk Value Seekers,2.059,0.477
+GB0417,4,Bulk Value Seekers,1.06,-0.144
+GB0418,3,Affluent Convenience Seekers,-3.986,0.595
+GB0419,4,Bulk Value Seekers,2.312,1.273
+GB0420,1,Cautious Sceptics,-0.33,-3.252
+GB0421,3,Affluent Convenience Seekers,-3.331,-0.149
+GB0422,4,Bulk Value Seekers,2.067,-0.342
+GB0423,4,Bulk Value Seekers,0.505,-0.024
+GB0424,4,Bulk Value Seekers,2.094,-0.423
+GB0425,2,SME Procurement Buyers,1.05,1.58
+GB0426,3,Affluent Convenience Seekers,-1.995,-0.247
+GB0427,0,Social Online Shoppers,0.44,1.253
+GB0428,1,Cautious Sceptics,0.968,-1.908
+GB0429,4,Bulk Value Seekers,2.116,0.52
+GB0430,3,Affluent Convenience Seekers,-3.919,-3.667
+GB0431,1,Cautious Sceptics,-0.779,-3.639
+GB0432,3,Affluent Convenience Seekers,-3.039,0.068
+GB0433,3,Affluent Convenience Seekers,-3.071,0.013
+GB0434,1,Cautious Sceptics,1.055,-3.092
+GB0435,4,Bulk Value Seekers,1.184,0.34
+GB0436,0,Social Online Shoppers,0.639,0.616
+GB0437,4,Bulk Value Seekers,1.224,1.383
+GB0438,2,SME Procurement Buyers,0.974,1.258
+GB0439,3,Affluent Convenience Seekers,-3.806,0.029
+GB0440,2,SME Procurement Buyers,0.696,2.161
+GB0441,1,Cautious Sceptics,0.166,-3.656
+GB0442,4,Bulk Value Seekers,1.821,0.294
+GB0443,3,Affluent Convenience Seekers,-3.579,-2.018
+GB0444,4,Bulk Value Seekers,2.621,-0.379
+GB0445,0,Social Online Shoppers,-0.601,1.049
+GB0446,3,Affluent Convenience Seekers,-3.856,0.657
+GB0447,1,Cautious Sceptics,0.725,-3.478
+GB0448,2,SME Procurement Buyers,0.66,1.281
+GB0449,4,Bulk Value Seekers,2.906,0.739
+GB0450,2,SME Procurement Buyers,1.693,1.442
+GB0451,4,Bulk Value Seekers,2.012,0.201
+GB0452,1,Cautious Sceptics,0.057,-1.909
+GB0453,3,Affluent Convenience Seekers,-3.571,-0.397
+GB0454,4,Bulk Value Seekers,2.471,0.192
+GB0455,4,Bulk Value Seekers,1.118,0.258
+GB0456,1,Cautious Sceptics,1.034,-0.886
+GB0457,1,Cautious Sceptics,0.14,-3.809
+GB0458,0,Social Online Shoppers,0.305,0.489
+GB0459,3,Affluent Convenience Seekers,-4.007,-0.452
+GB0460,2,SME Procurement Buyers,0.945,1.799
+GB0461,2,SME Procurement Buyers,0.528,1.336
+GB0462,4,Bulk Value Seekers,2.731,0.797
+GB0463,1,Cautious Sceptics,1.226,-1.603
+GB0464,0,Social Online Shoppers,-0.862,0.003
+GB0465,2,SME Procurement Buyers,0.061,1.973
+GB0466,3,Affluent Convenience Seekers,-3.791,0.057
+GB0467,3,Affluent Convenience Seekers,-4.412,0.559
+GB0468,1,Cautious Sceptics,0.739,-3.093
+GB0469,0,Social Online Shoppers,3.464,-1.868
+GB0470,2,SME Procurement Buyers,0.374,2.589
+GB0471,0,Social Online Shoppers,0.098,0.477
+GB0472,0,Social Online Shoppers,0.181,0.993
+GB0473,4,Bulk Value Seekers,1.578,0.107
+GB0474,4,Bulk Value Seekers,1.64,0.288
+GB0475,0,Social Online Shoppers,-0.085,0.455
+GB0476,0,Social Online Shoppers,-1.034,-0.271
+GB0477,0,Social Online Shoppers,0.477,0.198
+GB0478,2,SME Procurement Buyers,1.455,1.355
+GB0479,2,SME Procurement Buyers,0.492,1.682
+GB0480,0,Social Online Shoppers,0.012,0.755
+GB0481,0,Social Online Shoppers,-0.779,1.0
+GB0482,4,Bulk Value Seekers,1.283,-1.296
+GB0483,2,SME Procurement Buyers,-0.192,2.425
+GB0484,0,Social Online Shoppers,-0.344,0.327
+GB0485,4,Bulk Value Seekers,1.71,1.648
+GB0486,0,Social Online Shoppers,-0.444,0.257
+GB0487,0,Social Online Shoppers,0.093,0.005
+GB0488,4,Bulk Value Seekers,2.402,-0.474
+GB0489,2,SME Procurement Buyers,0.708,-0.129
+GB0490,2,SME Procurement Buyers,1.16,0.894
+GB0491,3,Affluent Convenience Seekers,-4.274,-0.501
+GB0492,3,Affluent Convenience Seekers,-3.847,0.452
+GB0493,3,Affluent Convenience Seekers,-2.495,2.299
+GB0494,0,Social Online Shoppers,0.413,0.538
+GB0495,3,Affluent Convenience Seekers,-2.753,0.343
+GB0496,2,SME Procurement Buyers,0.535,1.395
+GB0497,0,Social Online Shoppers,0.381,0.933
+GB0498,2,SME Procurement Buyers,0.4,-0.029
+GB0499,0,Social Online Shoppers,-0.869,0.508
+GB0500,2,SME Procurement Buyers,0.299,0.872
+GB0501,3,Affluent Convenience Seekers,-3.652,-0.18
+GB0502,1,Cautious Sceptics,0.305,-3.191
+GB0503,1,Cautious Sceptics,0.11,-2.735
+GB0504,2,SME Procurement Buyers,1.819,0.803
+GB0505,2,SME Procurement Buyers,1.219,2.922
+GB0506,3,Affluent Convenience Seekers,-2.709,0.894
+GB0507,0,Social Online Shoppers,-0.397,0.953
+GB0508,1,Cautious Sceptics,0.816,-2.68
+GB0509,0,Social Online Shoppers,-0.012,1.071
+GB0510,4,Bulk Value Seekers,1.412,-0.333
+GB0511,4,Bulk Value Seekers,1.415,-0.322
+GB0512,1,Cautious Sceptics,-0.634,-3.0
+GB0513,4,Bulk Value Seekers,1.822,0.524
+GB0514,0,Social Online Shoppers,-1.687,1.252
+GB0515,0,Social Online Shoppers,0.716,0.937
+GB0516,4,Bulk Value Seekers,2.629,0.357
+GB0517,0,Social Online Shoppers,-0.098,0.859
+GB0518,3,Affluent Convenience Seekers,-3.568,0.739
+GB0519,4,Bulk Value Seekers,1.584,-0.686
+GB0520,1,Cautious Sceptics,0.816,-1.308
+GB0521,1,Cautious Sceptics,1.277,-3.047
+GB0522,0,Social Online Shoppers,0.18,1.311
+GB0523,2,SME Procurement Buyers,0.662,0.615
+GB0524,2,SME Procurement Buyers,0.971,1.447
+GB0525,4,Bulk Value Seekers,2.66,0.311
+GB0526,0,Social Online Shoppers,0.03,1.142
+GB0527,1,Cautious Sceptics,0.55,-3.051
+GB0528,1,Cautious Sceptics,0.651,-2.205
+GB0529,3,Affluent Convenience Seekers,-3.59,0.356
+GB0530,0,Social Online Shoppers,0.441,1.042
+GB0531,3,Affluent Convenience Seekers,-4.622,0.129
+GB0532,3,Affluent Convenience Seekers,-3.661,0.985
+GB0533,0,Social Online Shoppers,0.683,1.51
+GB0534,3,Affluent Convenience Seekers,-2.936,0.641
+GB0535,4,Bulk Value Seekers,2.662,-0.271
+GB0536,4,Bulk Value Seekers,1.285,0.325
+GB0537,2,SME Procurement Buyers,0.5,1.95
+GB0538,4,Bulk Value Seekers,0.825,-0.17
+GB0539,4,Bulk Value Seekers,2.359,0.731
+GB0540,1,Cautious Sceptics,-0.641,-2.319
+GB0541,1,Cautious Sceptics,0.9,-3.06
+GB0542,2,SME Procurement Buyers,-0.253,1.894
+GB0543,1,Cautious Sceptics,1.076,-2.735
+GB0544,1,Cautious Sceptics,-0.211,-2.252
+GB0545,4,Bulk Value Seekers,2.858,1.682
+GB0546,0,Social Online Shoppers,0.427,0.388
+GB0547,0,Social Online Shoppers,0.175,0.107
+GB0548,4,Bulk Value Seekers,2.475,-0.271
+GB0549,3,Affluent Convenience Seekers,-2.591,-0.445
+GB0550,0,Social Online Shoppers,0.193,0.732
+GB0551,0,Social Online Shoppers,-0.581,-0.584
+GB0552,4,Bulk Value Seekers,1.52,0.504
+GB0553,4,Bulk Value Seekers,1.246,-0.441
+GB0554,1,Cautious Sceptics,0.408,-1.323
+GB0555,4,Bulk Value Seekers,2.937,0.702
+GB0556,4,Bulk Value Seekers,1.876,0.767
+GB0557,0,Social Online Shoppers,-0.162,0.291
+GB0558,0,Social Online Shoppers,0.207,-0.128
+GB0559,2,SME Procurement Buyers,0.735,1.262
+GB0560,0,Social Online Shoppers,-0.447,0.424
+GB0561,4,Bulk Value Seekers,1.516,1.607
+GB0562,4,Bulk Value Seekers,1.437,0.43
+GB0563,1,Cautious Sceptics,0.8,-2.11
+GB0564,2,SME Procurement Buyers,-0.239,1.808
+GB0565,3,Affluent Convenience Seekers,-4.115,0.573
+GB0566,3,Affluent Convenience Seekers,-2.89,0.498
+GB0567,3,Affluent Convenience Seekers,-3.454,-0.441
+GB0568,4,Bulk Value Seekers,1.71,0.227
+GB0569,0,Social Online Shoppers,0.539,0.261
+GB0570,2,SME Procurement Buyers,0.445,3.12
+GB0571,0,Social Online Shoppers,0.459,1.349
+GB0572,1,Cautious Sceptics,0.833,-0.871
+GB0573,0,Social Online Shoppers,0.651,-0.013
+GB0574,3,Affluent Convenience Seekers,-3.835,-0.792
+GB0575,1,Cautious Sceptics,-0.46,-1.537
+GB0576,2,SME Procurement Buyers,0.253,1.739
+GB0577,1,Cautious Sceptics,1.201,-2.156
+GB0578,4,Bulk Value Seekers,1.939,2.185
+GB0579,1,Cautious Sceptics,0.751,-2.807
+GB0580,0,Social Online Shoppers,0.668,1.072
+GB0581,0,Social Online Shoppers,0.33,0.875
+GB0582,2,SME Procurement Buyers,0.48,1.403
+GB0583,4,Bulk Value Seekers,1.293,0.533
+GB0584,0,Social Online Shoppers,-1.191,0.368
+GB0585,1,Cautious Sceptics,1.501,-2.212
+GB0586,2,SME Procurement Buyers,0.668,0.903
+GB0587,4,Bulk Value Seekers,1.768,0.135
+GB0588,0,Social Online Shoppers,1.106,1.134
+GB0589,4,Bulk Value Seekers,1.788,0.962
+GB0590,4,Bulk Value Seekers,1.98,-0.01
+GB0591,1,Cautious Sceptics,0.18,-3.55
+GB0592,0,Social Online Shoppers,-0.623,0.682
+GB0593,0,Social Online Shoppers,-0.155,1.365
+GB0594,2,SME Procurement Buyers,1.595,2.022
+GB0595,4,Bulk Value Seekers,1.415,0.563
+GB0596,0,Social Online Shoppers,-0.126,1.094
+GB0597,3,Affluent Convenience Seekers,-3.158,1.376
+GB0598,2,SME Procurement Buyers,0.38,1.244
+GB0599,1,Cautious Sceptics,0.099,-1.305
+GB0600,2,SME Procurement Buyers,0.9,0.594
+GB0601,0,Social Online Shoppers,1.022,0.745
+GB0602,3,Affluent Convenience Seekers,-3.352,0.418
+GB0603,1,Cautious Sceptics,0.749,-2.23
+GB0604,3,Affluent Convenience Seekers,-4.463,-0.02
+GB0605,1,Cautious Sceptics,0.817,-1.662
+GB0606,3,Affluent Convenience Seekers,-4.181,-0.594
+GB0607,1,Cautious Sceptics,0.988,-1.617
+GB0608,4,Bulk Value Seekers,1.973,-0.187
+GB0609,3,Affluent Convenience Seekers,-3.954,0.733
+GB0610,0,Social Online Shoppers,0.78,0.237
+GB0611,2,SME Procurement Buyers,0.214,1.761
+GB0612,3,Affluent Convenience Seekers,-3.127,1.775
+GB0613,1,Cautious Sceptics,0.098,-3.659
+GB0614,1,Cautious Sceptics,1.176,-2.254
+GB0615,0,Social Online Shoppers,-0.234,-0.46
+GB0616,3,Affluent Convenience Seekers,-3.164,0.446
+GB0617,3,Affluent Convenience Seekers,-2.959,-0.027
+GB0618,0,Social Online Shoppers,-0.059,1.235
+GB0619,4,Bulk Value Seekers,1.773,-0.205
+GB0620,4,Bulk Value Seekers,3.339,1.181
+GB0621,3,Affluent Convenience Seekers,-3.888,0.598
+GB0622,4,Bulk Value Seekers,0.978,0.226
+GB0623,1,Cautious Sceptics,1.173,-2.599
+GB0624,4,Bulk Value Seekers,1.235,-0.238
+GB0625,1,Cautious Sceptics,-0.291,-3.684
+GB0626,4,Bulk Value Seekers,2.726,0.5
+GB0627,3,Affluent Convenience Seekers,-2.712,0.427
+GB0628,4,Bulk Value Seekers,2.624,0.202
+GB0629,2,SME Procurement Buyers,0.459,0.864
+GB0630,3,Affluent Convenience Seekers,-3.384,0.092
+GB0631,1,Cautious Sceptics,0.667,-2.352
+GB0632,1,Cautious Sceptics,0.448,-2.377
+GB0633,0,Social Online Shoppers,0.55,-0.602
+GB0634,0,Social Online Shoppers,0.122,1.311
+GB0635,4,Bulk Value Seekers,1.996,0.455
+GB0636,4,Bulk Value Seekers,0.977,-0.766
+GB0637,3,Affluent Convenience Seekers,-3.609,0.305
+GB0638,3,Affluent Convenience Seekers,-4.053,0.868
+GB0639,3,Affluent Convenience Seekers,-3.038,0.169
+GB0640,1,Cautious Sceptics,0.891,-2.22
+GB0641,3,Affluent Convenience Seekers,-3.626,0.064
+GB0642,3,Affluent Convenience Seekers,-2.957,-0.281
+GB0643,1,Cautious Sceptics,-0.939,-3.313
+GB0644,4,Bulk Value Seekers,1.895,-1.008
+GB0645,2,SME Procurement Buyers,-0.117,1.978
+GB0646,1,Cautious Sceptics,0.458,-2.646
+GB0647,1,Cautious Sceptics,2.051,-1.201
+GB0648,2,SME Procurement Buyers,1.732,2.436
+GB0649,3,Affluent Convenience Seekers,-4.329,0.395
+GB0650,4,Bulk Value Seekers,2.147,0.881
+GB0651,0,Social Online Shoppers,-0.056,0.245
+GB0652,1,Cautious Sceptics,0.612,-2.066
+GB0653,3,Affluent Convenience Seekers,-3.086,0.336
+GB0654,4,Bulk Value Seekers,1.377,0.021
+GB0655,1,Cautious Sceptics,0.707,-2.89
+GB0656,0,Social Online Shoppers,0.626,0.651
+GB0657,1,Cautious Sceptics,-0.247,-3.336
+GB0658,0,Social Online Shoppers,-0.375,1.649
+GB0659,2,SME Procurement Buyers,0.572,0.912
+GB0660,0,Social Online Shoppers,-0.269,2.303
+GB0661,0,Social Online Shoppers,-0.612,-0.614
+GB0662,1,Cautious Sceptics,0.815,-2.351
+GB0663,0,Social Online Shoppers,0.596,-0.835
+GB0664,4,Bulk Value Seekers,2.19,0.679
+GB0665,0,Social Online Shoppers,0.411,1.467
+GB0666,3,Affluent Convenience Seekers,-4.582,-0.986
+GB0667,3,Affluent Convenience Seekers,-4.287,0.244
+GB0668,1,Cautious Sceptics,0.704,-2.038
+GB0669,0,Social Online Shoppers,0.856,0.111
+GB0670,0,Social Online Shoppers,-0.275,-0.551
+GB0671,0,Social Online Shoppers,1.006,0.237
+GB0672,2,SME Procurement Buyers,0.695,2.031
+GB0673,1,Cautious Sceptics,1.14,-3.01
+GB0674,3,Affluent Convenience Seekers,-3.552,0.285
+GB0675,2,SME Procurement Buyers,-0.212,1.139
+GB0676,0,Social Online Shoppers,-0.394,-0.71
+GB0677,1,Cautious Sceptics,1.641,-3.053
+GB0678,0,Social Online Shoppers,1.45,0.834
+GB0679,4,Bulk Value Seekers,1.636,-0.798
+GB0680,0,Social Online Shoppers,-0.887,0.227
+GB0681,4,Bulk Value Seekers,1.942,0.117
+GB0682,4,Bulk Value Seekers,2.129,0.932
+GB0683,4,Bulk Value Seekers,1.929,-0.125
+GB0684,0,Social Online Shoppers,0.591,0.536
+GB0685,2,SME Procurement Buyers,0.279,0.773
+GB0686,4,Bulk Value Seekers,1.676,0.121
+GB0687,0,Social Online Shoppers,-0.458,0.237
+GB0688,1,Cautious Sceptics,0.85,-3.279
+GB0689,3,Affluent Convenience Seekers,-4.002,1.227
+GB0690,2,SME Procurement Buyers,0.997,2.588
+GB0691,0,Social Online Shoppers,-0.484,0.266
+GB0692,1,Cautious Sceptics,-1.146,-2.533
+GB0693,4,Bulk Value Seekers,2.125,0.626
+GB0694,4,Bulk Value Seekers,1.335,0.957
+GB0695,1,Cautious Sceptics,0.287,-1.9
+GB0696,2,SME Procurement Buyers,0.663,1.366
+GB0697,3,Affluent Convenience Seekers,-3.089,0.439
+GB0698,2,SME Procurement Buyers,-0.872,1.445
+GB0699,3,Affluent Convenience Seekers,-4.191,0.481
+GB0700,0,Social Online Shoppers,0.034,-1.442
+GB0701,4,Bulk Value Seekers,1.94,-1.05
+GB0702,0,Social Online Shoppers,-0.081,-0.613
+GB0703,4,Bulk Value Seekers,0.837,1.2
+GB0704,1,Cautious Sceptics,0.684,-2.117
+GB0705,0,Social Online Shoppers,-0.369,0.762
+GB0706,2,SME Procurement Buyers,0.79,1.777
+GB0707,3,Affluent Convenience Seekers,-4.818,-0.59
+GB0708,3,Affluent Convenience Seekers,-3.666,0.7
+GB0709,0,Social Online Shoppers,-1.102,0.103
+GB0710,0,Social Online Shoppers,0.23,0.339
+GB0711,1,Cautious Sceptics,1.055,-3.197
+GB0712,3,Affluent Convenience Seekers,-3.692,0.289
+GB0713,3,Affluent Convenience Seekers,-2.621,0.817
+GB0714,1,Cautious Sceptics,0.922,-2.647
+GB0715,3,Affluent Convenience Seekers,-3.274,0.988
+GB0716,4,Bulk Value Seekers,0.887,1.099
+GB0717,2,SME Procurement Buyers,0.117,1.359
+GB0718,2,SME Procurement Buyers,0.929,1.051
+GB0719,3,Affluent Convenience Seekers,-3.973,1.0
+GB0720,1,Cautious Sceptics,-0.745,-1.734
+GB0721,2,SME Procurement Buyers,0.275,2.079
+GB0722,0,Social Online Shoppers,1.202,1.146
+GB0723,4,Bulk Value Seekers,1.16,0.352
+GB0724,1,Cautious Sceptics,0.712,-3.799
+GB0725,4,Bulk Value Seekers,1.965,0.236
+GB0726,4,Bulk Value Seekers,2.558,-0.662
+GB0727,4,Bulk Value Seekers,2.526,0.84
+GB0728,4,Bulk Value Seekers,2.768,0.787
+GB0729,0,Social Online Shoppers,0.571,1.088
+GB0730,2,SME Procurement Buyers,1.297,1.689
+GB0731,0,Social Online Shoppers,0.164,0.041
+GB0732,4,Bulk Value Seekers,1.32,-0.627
+GB0733,4,Bulk Value Seekers,2.341,1.175
+GB0734,0,Social Online Shoppers,-0.318,0.676
+GB0735,4,Bulk Value Seekers,2.065,0.731
+GB0736,3,Affluent Convenience Seekers,-2.446,1.279
+GB0737,1,Cautious Sceptics,0.444,-1.496
+GB0738,0,Social Online Shoppers,1.685,0.692
+GB0739,1,Cautious Sceptics,1.047,-2.163
+GB0740,0,Social Online Shoppers,0.65,0.741
+GB0741,4,Bulk Value Seekers,2.074,-0.803
+GB0742,4,Bulk Value Seekers,2.923,0.456
+GB0743,1,Cautious Sceptics,2.148,-1.622
+GB0744,4,Bulk Value Seekers,1.3,1.331
+GB0745,2,SME Procurement Buyers,1.224,2.438
+GB0746,0,Social Online Shoppers,-0.596,0.351
+GB0747,0,Social Online Shoppers,-0.002,-0.055
+GB0748,0,Social Online Shoppers,0.766,-0.846
+GB0749,3,Affluent Convenience Seekers,-3.664,0.44
+GB0750,1,Cautious Sceptics,0.354,-2.41
+GB0751,0,Social Online Shoppers,-0.157,-0.039
+GB0752,0,Social Online Shoppers,-0.542,0.653
+GB0753,4,Bulk Value Seekers,1.665,0.104
+GB0754,0,Social Online Shoppers,-2.027,0.299
+GB0755,3,Affluent Convenience Seekers,-2.687,0.322
+GB0756,4,Bulk Value Seekers,1.373,-0.583
+GB0757,0,Social Online Shoppers,0.233,0.23
+GB0758,1,Cautious Sceptics,0.515,-2.49
+GB0759,4,Bulk Value Seekers,3.031,0.026
+GB0760,0,Social Online Shoppers,0.069,-0.694
+GB0761,3,Affluent Convenience Seekers,-4.904,-0.041
+GB0762,4,Bulk Value Seekers,1.337,-0.03
+GB0763,4,Bulk Value Seekers,2.464,0.53
+GB0764,4,Bulk Value Seekers,1.977,-0.607
+GB0765,1,Cautious Sceptics,0.675,-2.853
+GB0766,0,Social Online Shoppers,0.939,0.866
+GB0767,4,Bulk Value Seekers,1.629,0.295
+GB0768,4,Bulk Value Seekers,2.437,-0.091
+GB0769,4,Bulk Value Seekers,2.128,-0.484
+GB0770,2,SME Procurement Buyers,0.347,1.712
+GB0771,4,Bulk Value Seekers,1.413,-0.101
+GB0772,2,SME Procurement Buyers,0.68,1.833
+GB0773,2,SME Procurement Buyers,0.399,1.334
+GB0774,1,Cautious Sceptics,0.092,-2.579
+GB0775,4,Bulk Value Seekers,2.135,-0.119
+GB0776,1,Cautious Sceptics,0.459,-1.935
+GB0777,2,SME Procurement Buyers,1.537,2.227
+GB0778,4,Bulk Value Seekers,1.958,1.075
+GB0779,3,Affluent Convenience Seekers,-5.136,-0.129
+GB0780,1,Cautious Sceptics,0.976,-2.224
+GB0781,4,Bulk Value Seekers,1.511,0.822
+GB0782,1,Cautious Sceptics,0.651,-1.508
+GB0783,0,Social Online Shoppers,-0.895,0.768
+GB0784,2,SME Procurement Buyers,1.006,1.386
+GB0785,1,Cautious Sceptics,0.577,-3.062
+GB0786,0,Social Online Shoppers,0.892,1.021
+GB0787,3,Affluent Convenience Seekers,-3.031,0.238
+GB0788,0,Social Online Shoppers,-0.534,0.561
+GB0789,3,Affluent Convenience Seekers,-3.832,0.608
+GB0790,2,SME Procurement Buyers,0.829,0.463
+GB0791,4,Bulk Value Seekers,2.022,0.407
+GB0792,0,Social Online Shoppers,-0.063,0.583
+GB0793,0,Social Online Shoppers,0.169,0.739
+GB0794,4,Bulk Value Seekers,1.322,0.708
+GB0795,4,Bulk Value Seekers,1.97,-0.061
+GB0796,0,Social Online Shoppers,0.708,-0.709
+GB0797,4,Bulk Value Seekers,2.336,0.98
+GB0798,4,Bulk Value Seekers,1.833,-0.903
+GB0799,3,Affluent Convenience Seekers,-4.594,0.604
+GB0800,3,Affluent Convenience Seekers,-5.093,-0.521
+GB0801,3,Affluent Convenience Seekers,-4.637,0.33
+GB0802,0,Social Online Shoppers,-0.935,-0.659
+GB0803,1,Cautious Sceptics,0.311,-2.329
+GB0804,2,SME Procurement Buyers,0.324,2.405
+GB0805,4,Bulk Value Seekers,0.903,0.831
+GB0806,1,Cautious Sceptics,0.951,-1.333
+GB0807,3,Affluent Convenience Seekers,-3.866,0.14
+GB0808,4,Bulk Value Seekers,1.933,0.394
+GB0809,2,SME Procurement Buyers,0.236,1.82
+GB0810,1,Cautious Sceptics,0.541,-3.499
+GB0811,4,Bulk Value Seekers,2.275,0.683
+GB0812,4,Bulk Value Seekers,3.171,-0.138
+GB0813,1,Cautious Sceptics,-0.82,-2.82
+GB0814,2,SME Procurement Buyers,0.437,2.454
+GB0815,4,Bulk Value Seekers,2.106,-0.464
+GB0816,1,Cautious Sceptics,-0.746,-2.285
+GB0817,1,Cautious Sceptics,-0.227,-2.262
+GB0818,2,SME Procurement Buyers,0.103,1.083
+GB0819,2,SME Procurement Buyers,0.074,0.846
+GB0820,0,Social Online Shoppers,0.2,1.362
+GB0821,4,Bulk Value Seekers,2.746,-0.612
+GB0822,2,SME Procurement Buyers,1.133,1.703
+GB0823,0,Social Online Shoppers,-1.52,-0.317
+GB0824,3,Affluent Convenience Seekers,-3.059,0.648
+GB0825,1,Cautious Sceptics,1.068,-1.881
+GB0826,4,Bulk Value Seekers,2.351,-1.156
+GB0827,2,SME Procurement Buyers,-0.365,1.622
+GB0828,4,Bulk Value Seekers,2.084,0.911
+GB0829,1,Cautious Sceptics,0.97,-3.815
+GB0830,2,SME Procurement Buyers,1.75,1.503
+GB0831,2,SME Procurement Buyers,0.672,0.54
+GB0832,2,SME Procurement Buyers,0.778,2.613
+GB0833,0,Social Online Shoppers,-0.048,-0.103
+GB0834,3,Affluent Convenience Seekers,-4.204,0.338
+GB0835,3,Affluent Convenience Seekers,-3.455,0.78
+GB0836,2,SME Procurement Buyers,1.482,0.675
+GB0837,3,Affluent Convenience Seekers,-3.298,-0.292
+GB0838,1,Cautious Sceptics,-0.247,-3.585
+GB0839,0,Social Online Shoppers,0.039,1.192
+GB0840,2,SME Procurement Buyers,-0.213,2.069
+GB0841,4,Bulk Value Seekers,2.277,0.599
+GB0842,3,Affluent Convenience Seekers,-3.853,0.118
+GB0843,2,SME Procurement Buyers,0.436,2.437
+GB0844,0,Social Online Shoppers,-0.318,0.719
+GB0845,4,Bulk Value Seekers,2.097,0.003
+GB0846,1,Cautious Sceptics,0.469,-2.236
+GB0847,0,Social Online Shoppers,0.062,0.389
+GB0848,3,Affluent Convenience Seekers,-3.294,0.716
+GB0849,4,Bulk Value Seekers,1.693,0.874
+GB0850,1,Cautious Sceptics,0.479,-2.888
+GB0851,0,Social Online Shoppers,2.129,1.637
+GB0852,4,Bulk Value Seekers,2.324,0.461
+GB0853,1,Cautious Sceptics,0.093,-1.353
+GB0854,1,Cautious Sceptics,0.265,-1.861
+GB0855,4,Bulk Value Seekers,2.088,-0.642
+GB0856,0,Social Online Shoppers,-0.457,0.115
+GB0857,3,Affluent Convenience Seekers,-2.478,2.186
+GB0858,1,Cautious Sceptics,0.133,-3.116
+GB0859,0,Social Online Shoppers,-0.087,0.636
+GB0860,2,SME Procurement Buyers,1.319,1.651
+GB0861,3,Affluent Convenience Seekers,-3.21,-0.035
+GB0862,3,Affluent Convenience Seekers,-4.066,-1.288
+GB0863,3,Affluent Convenience Seekers,-2.449,-0.269
+GB0864,2,SME Procurement Buyers,0.785,2.008
+GB0865,4,Bulk Value Seekers,0.705,0.468
+GB0866,1,Cautious Sceptics,0.003,-1.59
+GB0867,1,Cautious Sceptics,0.46,-3.086
+GB0868,3,Affluent Convenience Seekers,-3.249,-0.467
+GB0869,4,Bulk Value Seekers,1.627,-0.35
+GB0870,4,Bulk Value Seekers,2.501,-0.268
+GB0871,3,Affluent Convenience Seekers,-4.006,-0.461
+GB0872,0,Social Online Shoppers,0.307,1.015
+GB0873,1,Cautious Sceptics,0.111,-1.876
+GB0874,0,Social Online Shoppers,0.218,-0.499
+GB0875,3,Affluent Convenience Seekers,-3.711,-0.336
+GB0876,1,Cautious Sceptics,-0.074,-0.838
+GB0877,0,Social Online Shoppers,0.398,-0.135
+GB0878,0,Social Online Shoppers,-0.291,-0.657
+GB0879,2,SME Procurement Buyers,0.435,2.432
+GB0880,2,SME Procurement Buyers,0.671,1.28
+GB0881,0,Social Online Shoppers,1.04,0.464
+GB0882,2,SME Procurement Buyers,0.462,1.031
+GB0883,1,Cautious Sceptics,1.237,-1.877
+GB0884,0,Social Online Shoppers,0.55,0.757
+GB0885,4,Bulk Value Seekers,1.349,1.088
+GB0886,0,Social Online Shoppers,-0.317,-0.049
+GB0887,0,Social Online Shoppers,-0.197,-0.003
+GB0888,4,Bulk Value Seekers,2.129,-0.601
+GB0889,4,Bulk Value Seekers,1.5,1.275
+GB0890,3,Affluent Convenience Seekers,-3.468,-0.472
+GB0891,2,SME Procurement Buyers,0.127,2.352
+GB0892,1,Cautious Sceptics,0.673,-1.919
+GB0893,4,Bulk Value Seekers,0.867,1.159
+GB0894,4,Bulk Value Seekers,1.703,0.913
+GB0895,3,Affluent Convenience Seekers,-4.389,-0.231
+GB0896,1,Cautious Sceptics,0.493,-2.554
+GB0897,0,Social Online Shoppers,1.875,0.237
+GB0898,4,Bulk Value Seekers,3.004,0.814
+GB0899,4,Bulk Value Seekers,3.041,0.237
+GB0900,2,SME Procurement Buyers,0.257,1.274
+GB0901,0,Social Online Shoppers,-0.548,1.095
+GB0902,4,Bulk Value Seekers,1.415,0.634
+GB0903,4,Bulk Value Seekers,1.765,0.822
+GB0904,0,Social Online Shoppers,-1.112,0.387
+GB0905,1,Cautious Sceptics,0.846,-1.186
+GB0906,3,Affluent Convenience Seekers,-1.919,3.032
+GB0907,0,Social Online Shoppers,0.326,1.695
+GB0908,4,Bulk Value Seekers,2.51,0.782
+GB0909,4,Bulk Value Seekers,2.227,0.494
+GB0910,0,Social Online Shoppers,-0.059,-0.786
+GB0911,3,Affluent Convenience Seekers,-4.03,1.385
+GB0912,1,Cautious Sceptics,0.234,-2.618
+GB0913,1,Cautious Sceptics,-0.808,-2.21
+GB0914,1,Cautious Sceptics,0.38,-1.842
+GB0915,1,Cautious Sceptics,0.297,-2.079
+GB0916,1,Cautious Sceptics,0.01,-2.835
+GB0917,0,Social Online Shoppers,0.664,-0.003
+GB0918,2,SME Procurement Buyers,1.928,0.908
+GB0919,0,Social Online Shoppers,0.266,0.76
+GB0920,2,SME Procurement Buyers,-0.401,1.703
+GB0921,0,Social Online Shoppers,0.881,0.544
+GB0922,1,Cautious Sceptics,0.824,-2.728
+GB0923,2,SME Procurement Buyers,-0.415,1.451
+GB0924,2,SME Procurement Buyers,0.713,2.473
+GB0925,4,Bulk Value Seekers,2.09,0.636
+GB0926,4,Bulk Value Seekers,0.948,-0.641
+GB0927,4,Bulk Value Seekers,2.269,0.087
+GB0928,1,Cautious Sceptics,-0.014,-3.623
+GB0929,2,SME Procurement Buyers,0.607,3.298
+GB0930,3,Affluent Convenience Seekers,-4.457,-2.763
+GB0931,0,Social Online Shoppers,0.666,0.518
+GB0932,4,Bulk Value Seekers,0.843,1.308
+GB0933,0,Social Online Shoppers,-0.524,0.145
+GB0934,3,Affluent Convenience Seekers,-4.836,1.312
+GB0935,3,Affluent Convenience Seekers,-3.829,0.498
+GB0936,4,Bulk Value Seekers,2.13,0.025
+GB0937,1,Cautious Sceptics,-0.61,-2.402
+GB0938,4,Bulk Value Seekers,1.89,0.38
+GB0939,1,Cautious Sceptics,0.667,-2.314
+GB0940,4,Bulk Value Seekers,1.849,0.239
+GB0941,0,Social Online Shoppers,0.844,1.229
+GB0942,1,Cautious Sceptics,-1.364,-3.134
+GB0943,4,Bulk Value Seekers,2.103,2.557
+GB0944,0,Social Online Shoppers,0.776,0.985
+GB0945,0,Social Online Shoppers,-0.158,1.37
+GB0946,4,Bulk Value Seekers,2.206,-0.59
+GB0947,3,Affluent Convenience Seekers,-3.67,1.484
+GB0948,1,Cautious Sceptics,0.317,-2.457
+GB0949,1,Cautious Sceptics,0.657,-2.369
+GB0950,0,Social Online Shoppers,0.924,0.729
+GB0951,2,SME Procurement Buyers,0.096,0.676
+GB0952,4,Bulk Value Seekers,1.909,0.909
+GB0953,4,Bulk Value Seekers,2.686,0.701
+GB0954,4,Bulk Value Seekers,1.844,0.44
+GB0955,1,Cautious Sceptics,0.062,-3.767
+GB0956,1,Cautious Sceptics,1.708,-2.436
+GB0957,3,Affluent Convenience Seekers,-4.051,1.002
+GB0958,2,SME Procurement Buyers,0.605,1.028
+GB0959,0,Social Online Shoppers,0.497,0.415
+GB0960,2,SME Procurement Buyers,1.295,2.315
+GB0961,2,SME Procurement Buyers,-0.596,2.199
+GB0962,0,Social Online Shoppers,-0.764,0.107
+GB0963,4,Bulk Value Seekers,2.188,-0.897
+GB0964,4,Bulk Value Seekers,1.434,-0.239
+GB0965,1,Cautious Sceptics,0.102,-2.541
+GB0966,0,Social Online Shoppers,0.325,-0.466
+GB0967,1,Cautious Sceptics,1.411,-3.409
+GB0968,4,Bulk Value Seekers,1.897,1.066
+GB0969,2,SME Procurement Buyers,0.421,1.623
+GB0970,4,Bulk Value Seekers,0.078,0.229
+GB0971,4,Bulk Value Seekers,2.626,1.242
+GB0972,1,Cautious Sceptics,1.267,-1.174
+GB0973,4,Bulk Value Seekers,1.694,-0.105
+GB0974,1,Cautious Sceptics,0.552,-2.174
+GB0975,0,Social Online Shoppers,0.16,0.685
+GB0976,2,SME Procurement Buyers,0.354,1.528
+GB0977,0,Social Online Shoppers,-0.037,0.282
+GB0978,0,Social Online Shoppers,-0.551,-1.286
+GB0979,2,SME Procurement Buyers,1.01,1.266
+GB0980,4,Bulk Value Seekers,2.297,-1.574
+GB0981,1,Cautious Sceptics,-0.509,-3.07
+GB0982,3,Affluent Convenience Seekers,-4.668,0.356
+GB0983,3,Affluent Convenience Seekers,-2.899,0.613
+GB0984,0,Social Online Shoppers,-0.193,-0.066
+GB0985,4,Bulk Value Seekers,2.163,0.735
+GB0986,1,Cautious Sceptics,-0.046,-2.534
+GB0987,0,Social Online Shoppers,0.123,-0.172
+GB0988,4,Bulk Value Seekers,1.808,-0.073
+GB0989,0,Social Online Shoppers,0.769,-0.642
+GB0990,3,Affluent Convenience Seekers,-5.277,-0.594
+GB0991,2,SME Procurement Buyers,-0.252,1.097
+GB0992,3,Affluent Convenience Seekers,-5.357,0.436
+GB0993,3,Affluent Convenience Seekers,-4.298,-1.69
+GB0994,4,Bulk Value Seekers,1.65,0.192
+GB0995,1,Cautious Sceptics,0.775,-1.447
+GB0996,0,Social Online Shoppers,0.174,1.024
+GB0997,2,SME Procurement Buyers,1.642,2.985
+GB0998,4,Bulk Value Seekers,2.756,-0.144
+GB0999,1,Cautious Sceptics,0.81,-1.961
+GB1000,0,Social Online Shoppers,-1.183,-0.231
+GB1001,4,Bulk Value Seekers,1.67,-0.045
+GB1002,0,Social Online Shoppers,0.515,0.756
+GB1003,4,Bulk Value Seekers,2.872,0.51
+GB1004,4,Bulk Value Seekers,2.371,0.848
+GB1005,2,SME Procurement Buyers,-0.067,2.225
+GB1006,0,Social Online Shoppers,0.3,0.588
+GB1007,1,Cautious Sceptics,0.855,-1.233
+GB1008,0,Social Online Shoppers,0.421,1.067
+GB1009,3,Affluent Convenience Seekers,-3.709,1.147
+GB1010,0,Social Online Shoppers,-0.157,-0.784
+GB1011,3,Affluent Convenience Seekers,-3.416,0.066
+GB1012,2,SME Procurement Buyers,-0.108,2.059
+GB1013,0,Social Online Shoppers,-0.002,1.356
+GB1014,1,Cautious Sceptics,0.811,-2.443
+GB1015,0,Social Online Shoppers,-0.128,0.649
+GB1016,4,Bulk Value Seekers,1.802,1.096
+GB1017,3,Affluent Convenience Seekers,-3.19,1.733
+GB1018,1,Cautious Sceptics,-0.234,-3.254
+GB1019,4,Bulk Value Seekers,2.381,1.171
+GB1020,0,Social Online Shoppers,0.089,0.214
+GB1021,1,Cautious Sceptics,0.459,-2.459
+GB1022,3,Affluent Convenience Seekers,-3.72,-0.085
+GB1023,1,Cautious Sceptics,0.404,-2.589
+GB1024,2,SME Procurement Buyers,0.406,1.195
+GB1025,3,Affluent Convenience Seekers,-3.115,0.776
+GB1026,0,Social Online Shoppers,0.281,1.652
+GB1027,1,Cautious Sceptics,1.665,-1.591
+GB1028,0,Social Online Shoppers,-0.323,-0.225
+GB1029,3,Affluent Convenience Seekers,-4.138,-0.204
+GB1030,0,Social Online Shoppers,1.35,0.93
+GB1031,2,SME Procurement Buyers,1.856,1.971
+GB1032,3,Affluent Convenience Seekers,-4.373,0.248
+GB1033,2,SME Procurement Buyers,0.106,1.536
+GB1034,1,Cautious Sceptics,-0.617,-2.442
+GB1035,0,Social Online Shoppers,-0.108,0.597
+GB1036,3,Affluent Convenience Seekers,-2.314,-0.946
+GB1037,0,Social Online Shoppers,-0.091,0.723
+GB1038,0,Social Online Shoppers,0.647,0.465
+GB1039,0,Social Online Shoppers,0.67,1.949
+GB1040,4,Bulk Value Seekers,1.298,-0.003
+GB1041,4,Bulk Value Seekers,1.53,-0.296
+GB1042,3,Affluent Convenience Seekers,-4.58,0.792
+GB1043,3,Affluent Convenience Seekers,-3.134,-0.907
+GB1044,3,Affluent Convenience Seekers,-4.185,1.406
+GB1045,1,Cautious Sceptics,-0.907,-3.783
+GB1046,0,Social Online Shoppers,0.399,1.153
+GB1047,2,SME Procurement Buyers,1.582,0.512
+GB1048,3,Affluent Convenience Seekers,-4.175,-0.543
+GB1049,1,Cautious Sceptics,0.733,-2.712
+GB1050,1,Cautious Sceptics,1.112,-2.149
+GB1051,3,Affluent Convenience Seekers,-4.935,-0.254
+GB1052,2,SME Procurement Buyers,1.547,2.797
+GB1053,0,Social Online Shoppers,0.508,-0.583
+GB1054,4,Bulk Value Seekers,2.76,1.795
+GB1055,0,Social Online Shoppers,-0.738,0.124
+GB1056,3,Affluent Convenience Seekers,-4.875,-0.036
+GB1057,1,Cautious Sceptics,-0.086,-2.484
+GB1058,4,Bulk Value Seekers,2.654,-0.543
+GB1059,2,SME Procurement Buyers,-0.696,0.912
+GB1060,3,Affluent Convenience Seekers,-3.376,0.291
+GB1061,1,Cautious Sceptics,1.096,-2.371
+GB1062,2,SME Procurement Buyers,0.377,1.352
+GB1063,4,Bulk Value Seekers,2.825,0.964
+GB1064,2,SME Procurement Buyers,1.028,1.684
+GB1065,0,Social Online Shoppers,-0.765,0.455
+GB1066,1,Cautious Sceptics,-0.169,-2.43
+GB1067,0,Social Online Shoppers,0.287,-0.011
+GB1068,3,Affluent Convenience Seekers,-3.743,-0.457
+GB1069,4,Bulk Value Seekers,1.987,-0.403
+GB1070,0,Social Online Shoppers,-0.204,-0.274
+GB1071,1,Cautious Sceptics,-0.317,-1.803
+GB1072,2,SME Procurement Buyers,2.132,1.863
+GB1073,0,Social Online Shoppers,0.305,0.234
+GB1074,1,Cautious Sceptics,1.088,-1.337
+GB1075,1,Cautious Sceptics,-0.707,-1.684
+GB1076,0,Social Online Shoppers,0.362,0.763
+GB1077,2,SME Procurement Buyers,1.121,2.12
+GB1078,0,Social Online Shoppers,-0.858,-0.109
+GB1079,2,SME Procurement Buyers,0.123,2.271
+GB1080,0,Social Online Shoppers,-0.056,1.314
+GB1081,4,Bulk Value Seekers,1.899,-0.253
+GB1082,1,Cautious Sceptics,0.369,-2.565
+GB1083,1,Cautious Sceptics,0.188,-2.459
+GB1084,1,Cautious Sceptics,0.693,-1.492
+GB1085,1,Cautious Sceptics,1.029,-2.657
+GB1086,3,Affluent Convenience Seekers,-3.452,0.128
+GB1087,3,Affluent Convenience Seekers,-3.374,-0.084
+GB1088,3,Affluent Convenience Seekers,-4.537,0.105
+GB1089,0,Social Online Shoppers,1.502,0.232
+GB1090,0,Social Online Shoppers,0.077,1.633
+GB1091,4,Bulk Value Seekers,1.54,0.347
+GB1092,3,Affluent Convenience Seekers,-3.3,0.988
+GB1093,0,Social Online Shoppers,0.858,0.99
+GB1094,4,Bulk Value Seekers,2.441,0.304
+GB1095,2,SME Procurement Buyers,1.25,1.511
+GB1096,0,Social Online Shoppers,0.541,0.715
+GB1097,4,Bulk Value Seekers,1.134,-0.625
+GB1098,3,Affluent Convenience Seekers,-4.236,0.719
+GB1099,1,Cautious Sceptics,-0.306,-2.468
+GB1100,4,Bulk Value Seekers,3.039,0.298
+GB1101,4,Bulk Value Seekers,1.903,0.419
+GB1102,0,Social Online Shoppers,0.999,0.918
+GB1103,3,Affluent Convenience Seekers,-4.124,0.158
+GB1104,1,Cautious Sceptics,-0.418,-2.333
+GB1105,4,Bulk Value Seekers,2.17,0.087
+GB1106,3,Affluent Convenience Seekers,-3.658,0.92
+GB1107,4,Bulk Value Seekers,1.4,0.168
+GB1108,0,Social Online Shoppers,0.63,1.614
+GB1109,1,Cautious Sceptics,1.381,-2.272
+GB1110,4,Bulk Value Seekers,2.152,0.139
+GB1111,4,Bulk Value Seekers,2.249,1.342
+GB1112,4,Bulk Value Seekers,2.052,-0.029
+GB1113,2,SME Procurement Buyers,0.856,2.704
+GB1114,1,Cautious Sceptics,-0.248,-2.165
+GB1115,1,Cautious Sceptics,-0.729,-3.949
+GB1116,4,Bulk Value Seekers,2.171,1.03
+GB1117,4,Bulk Value Seekers,2.296,0.394
+GB1118,3,Affluent Convenience Seekers,-4.471,-0.354
+GB1119,0,Social Online Shoppers,0.252,-0.415
+GB1120,1,Cautious Sceptics,0.747,-2.589
+GB1121,3,Affluent Convenience Seekers,-3.558,0.915
+GB1122,4,Bulk Value Seekers,2.593,0.292
+GB1123,1,Cautious Sceptics,0.698,-2.421
+GB1124,4,Bulk Value Seekers,2.536,0.436
+GB1125,0,Social Online Shoppers,0.637,0.733
+GB1126,2,SME Procurement Buyers,-1.043,-1.328
+GB1127,2,SME Procurement Buyers,1.087,1.818
+GB1128,3,Affluent Convenience Seekers,-4.485,-0.43
+GB1129,3,Affluent Convenience Seekers,-2.872,0.101
+GB1130,1,Cautious Sceptics,-0.031,-3.233
+GB1131,1,Cautious Sceptics,0.114,-3.075
+GB1132,2,SME Procurement Buyers,0.698,2.138
+GB1133,4,Bulk Value Seekers,2.226,-0.659
+GB1134,3,Affluent Convenience Seekers,-3.604,-0.486
+GB1135,1,Cautious Sceptics,0.248,-1.439
+GB1136,0,Social Online Shoppers,-0.059,-0.527
+GB1137,0,Social Online Shoppers,0.775,1.42
+GB1138,0,Social Online Shoppers,-1.014,1.652
+GB1139,4,Bulk Value Seekers,2.456,-0.155
+GB1140,3,Affluent Convenience Seekers,-4.233,-0.095
+GB1141,0,Social Online Shoppers,-0.029,0.538
+GB1142,3,Affluent Convenience Seekers,-4.128,1.651
+GB1143,1,Cautious Sceptics,0.07,-1.791
+GB1144,1,Cautious Sceptics,0.092,-2.248
+GB1145,0,Social Online Shoppers,-0.206,0.878
+GB1146,0,Social Online Shoppers,0.428,0.724
+GB1147,3,Affluent Convenience Seekers,-4.247,1.289
+GB1148,3,Affluent Convenience Seekers,-2.611,1.106
+GB1149,0,Social Online Shoppers,0.658,0.474
+GB1150,1,Cautious Sceptics,0.761,-1.991
+GB1151,4,Bulk Value Seekers,2.847,1.183
+GB1152,1,Cautious Sceptics,0.496,-2.432
+GB1153,4,Bulk Value Seekers,3.082,0.379
+GB1154,4,Bulk Value Seekers,2.112,-0.092
+GB1155,2,SME Procurement Buyers,-0.733,1.846
+GB1156,4,Bulk Value Seekers,2.584,2.219
+GB1157,4,Bulk Value Seekers,1.923,0.49
+GB1158,4,Bulk Value Seekers,1.347,1.101
+GB1159,0,Social Online Shoppers,-0.108,1.64
+GB1160,3,Affluent Convenience Seekers,-4.119,0.784
+GB1161,4,Bulk Value Seekers,2.374,-0.239
+GB1162,3,Affluent Convenience Seekers,-3.768,-0.731
+GB1163,1,Cautious Sceptics,0.632,-2.666
+GB1164,4,Bulk Value Seekers,1.19,0.043
+GB1165,4,Bulk Value Seekers,1.246,0.797
+GB1166,1,Cautious Sceptics,1.486,-1.966
+GB1167,1,Cautious Sceptics,1.447,-2.183
+GB1168,2,SME Procurement Buyers,-1.508,1.608
+GB1169,3,Affluent Convenience Seekers,-3.383,-0.259
+GB1170,4,Bulk Value Seekers,2.492,-0.133
+GB1171,4,Bulk Value Seekers,1.273,0.689
+GB1172,3,Affluent Convenience Seekers,-3.344,1.124
+GB1173,4,Bulk Value Seekers,1.894,-0.402
+GB1174,3,Affluent Convenience Seekers,-2.724,0.333
+GB1175,2,SME Procurement Buyers,-0.339,0.706
+GB1176,3,Affluent Convenience Seekers,-3.976,1.312
+GB1177,0,Social Online Shoppers,0.119,1.389
+GB1178,0,Social Online Shoppers,0.727,0.515
+GB1179,4,Bulk Value Seekers,1.771,-0.205
+GB1180,0,Social Online Shoppers,0.742,-0.616
+GB1181,3,Affluent Convenience Seekers,-4.616,0.129
+GB1182,2,SME Procurement Buyers,1.492,1.969
+GB1183,4,Bulk Value Seekers,2.781,0.684
+GB1184,4,Bulk Value Seekers,2.106,0.915
+GB1185,4,Bulk Value Seekers,2.678,0.935
+GB1186,1,Cautious Sceptics,1.619,-2.581
+GB1187,0,Social Online Shoppers,0.982,0.682
+GB1188,1,Cautious Sceptics,1.278,-2.83
+GB1189,4,Bulk Value Seekers,2.362,0.433
+GB1190,3,Affluent Convenience Seekers,-4.689,0.79
+GB1191,0,Social Online Shoppers,-0.073,-0.298
+GB1192,0,Social Online Shoppers,0.719,0.498
+GB1193,1,Cautious Sceptics,-0.085,-1.995
+GB1194,1,Cautious Sceptics,1.489,-2.751
+GB1195,1,Cautious Sceptics,0.909,-3.037
+GB1196,0,Social Online Shoppers,1.33,1.013
+GB1197,4,Bulk Value Seekers,3.098,0.91
+GB1198,3,Affluent Convenience Seekers,-4.238,0.287
+GB1199,0,Social Online Shoppers,0.616,1.507
+GB1200,3,Affluent Convenience Seekers,-3.737,0.554
