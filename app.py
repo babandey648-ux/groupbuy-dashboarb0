@@ -8,7 +8,10 @@ from sklearn.metrics import confusion_matrix
 from sklearn.pipeline import Pipeline, make_pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
-ROOT = Path(__file__).resolve().parents[1]; DATA, RES = ROOT / "Dataset", ROOT / "Results"
+HERE = Path(__file__).resolve().parent
+ROOT = HERE.parent if (HERE.parent / "Dataset").exists() else HERE
+DATA = ROOT / "Dataset" if (ROOT / "Dataset").exists() else HERE   # works with folders or with all files uploaded loose
+RES = ROOT / "Results" if (ROOT / "Results").exists() else HERE
 st.set_page_config("GroupBuy Analytics", layout="wide")
 BLUE, ORANGE, AQUA, YELLOW, PINK, GREY = "#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#8a8984"
 SEG = {"Bulk Value Seekers": BLUE, "SME Procurement Buyers": ORANGE, "Social Online Shoppers": AQUA, "Cautious Sceptics": YELLOW, "Affluent Convenience Seekers": PINK}
